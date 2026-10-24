@@ -1,0 +1,1027 @@
+Kabupaten/Kota,Provinsi,Tahun,IPM,IPM_prediksi,Selisih,Status,Fold,PPM,TPAK,TPT,PDRB,KP,IPM_prediksi_tanpa_tuning
+Aceh Barat,Aceh,2017,70.2,69.12,1.08,Sesuai prediksi,4,20.28,60.34,8.58,29814,73.0,69.91
+Aceh Barat,Aceh,2018,70.47,69.12,1.35,Sesuai prediksi,4,19.31,53.9,8.58,32157,70.0,69.91
+Aceh Barat,Aceh,2019,71.22,69.18,2.04,Sesuai prediksi,4,18.79,60.64,7.41,33661,76.0,70.46
+Aceh Barat,Aceh,2020,71.38,69.18,2.2,Sesuai prediksi,4,18.34,59.08,7.3,35728,68.0,70.47
+Aceh Barat,Aceh,2021,71.67,69.18,2.49,Sesuai prediksi,4,18.81,59.74,7.09,37407,69.0,70.47
+Aceh Barat,Aceh,2022,72.34,69.18,3.16,Di atas prediksi,4,17.93,57.44,6.09,38217,69.0,70.16
+Aceh Barat,Aceh,2023,72.88,69.18,3.7,Di atas prediksi,4,17.86,59.51,6.07,39362,70.0,70.16
+Aceh Barat,Aceh,2024,73.69,68.86,4.83,Di atas prediksi,4,17.6,60.17,5.58,41983,71.0,69.87
+Aceh Barat,Aceh,2025,74.54,69.58,4.96,Di atas prediksi,4,15.5,60.64,5.46,43426,74.0,70.66
+Aceh Barat Daya,Aceh,2017,65.09,67.93,-2.84,Sesuai prediksi,2,18.31,62.01,3.93,18811,77.0,68.47
+Aceh Barat Daya,Aceh,2018,65.67,67.52,-1.85,Sesuai prediksi,2,17.1,63.62,3.93,19357,99.0,67.52
+Aceh Barat Daya,Aceh,2019,66.56,68.21,-1.65,Sesuai prediksi,2,16.26,58.36,4.29,20057,80.0,68.95
+Aceh Barat Daya,Aceh,2020,66.75,68.21,-1.46,Sesuai prediksi,2,15.93,57.98,3.93,19860,101.0,68.95
+Aceh Barat Daya,Aceh,2021,66.99,68.38,-1.39,Sesuai prediksi,2,16.34,58.22,4.04,20128,102.0,69.12
+Aceh Barat Daya,Aceh,2022,67.41,68.82,-1.41,Sesuai prediksi,2,15.44,59.52,4.12,20607,104.0,69.88
+Aceh Barat Daya,Aceh,2023,68.07,68.82,-0.75,Sesuai prediksi,2,15.43,60.03,4.08,21109,105.0,69.88
+Aceh Barat Daya,Aceh,2024,68.75,68.82,-0.07,Sesuai prediksi,2,15.32,60.36,3.83,21698,107.0,69.88
+Aceh Barat Daya,Aceh,2025,69.69,69.93,-0.24,Sesuai prediksi,2,13.3,60.78,3.66,22289,86.0,71.04
+Aceh Singkil,Aceh,2017,67.37,66.31,1.06,Sesuai prediksi,3,22.11,59.43,7.96,13401,64.0,67.27
+Aceh Singkil,Aceh,2018,68.02,65.97,2.05,Sesuai prediksi,3,21.25,62.89,7.96,13685,56.0,66.0
+Aceh Singkil,Aceh,2019,68.91,66.74,2.17,Sesuai prediksi,3,20.78,58.94,8.58,14179,67.0,67.73
+Aceh Singkil,Aceh,2020,68.94,66.06,2.88,Sesuai prediksi,3,20.2,61.78,8.24,13602,58.0,66.09
+Aceh Singkil,Aceh,2021,69.22,66.29,2.93,Sesuai prediksi,3,20.36,62.66,8.36,13862,59.0,66.57
+Aceh Singkil,Aceh,2022,69.62,66.72,2.9,Sesuai prediksi,3,19.18,57.04,6.88,14096,60.0,67.91
+Aceh Singkil,Aceh,2023,70.14,66.72,3.42,Di atas prediksi,3,19.15,57.66,6.84,14329,61.0,67.91
+Aceh Singkil,Aceh,2024,70.75,66.85,3.9,Di atas prediksi,3,19.06,57.68,6.44,14564,62.0,67.52
+Aceh Singkil,Aceh,2025,71.61,67.9,3.71,Di atas prediksi,3,17.07,57.61,6.55,14799,75.0,68.8
+Aceh Tengah,Aceh,2017,72.19,68.17,4.02,Di atas prediksi,4,16.84,76.8,2.11,26484,46.0,68.73
+Aceh Tengah,Aceh,2018,72.64,68.82,3.82,Di atas prediksi,4,15.58,72.26,2.11,27045,48.0,69.76
+Aceh Tengah,Aceh,2019,73.14,68.82,4.32,Di atas prediksi,4,15.5,72.3,2.65,27912,48.0,69.38
+Aceh Tengah,Aceh,2020,73.24,68.66,4.58,Di atas prediksi,4,15.08,79.82,3.05,26866,50.0,69.58
+Aceh Tengah,Aceh,2021,73.37,68.82,4.55,Di atas prediksi,4,15.26,76.16,2.61,27341,51.0,69.38
+Aceh Tengah,Aceh,2022,73.95,69.09,4.86,Di atas prediksi,4,14.5,76.22,4.44,28306,52.0,70.09
+Aceh Tengah,Aceh,2023,74.6,69.09,5.51,Di atas prediksi,4,14.38,76.78,4.42,29494,52.0,70.09
+Aceh Tengah,Aceh,2024,75.41,69.09,6.32,Di atas prediksi,4,14.27,77.32,4.21,30569,53.0,70.09
+Aceh Tengah,Aceh,2025,76.23,69.09,7.14,Di atas prediksi,4,12.29,77.52,4.03,31095,51.0,70.15
+Aceh Utara,Aceh,2017,67.67,69.12,-1.45,Sesuai prediksi,5,19.78,57.21,10.14,25799,224.0,70.22
+Aceh Utara,Aceh,2018,68.36,68.8,-0.44,Sesuai prediksi,5,18.27,63.76,10.14,26636,189.0,68.99
+Aceh Utara,Aceh,2019,69.22,69.07,0.15,Sesuai prediksi,5,17.39,61.54,8.65,27374,230.0,69.39
+Aceh Utara,Aceh,2020,69.33,69.12,0.21,Sesuai prediksi,5,17.02,60.67,8.56,28291,186.0,70.29
+Aceh Utara,Aceh,2021,69.46,69.12,0.34,Sesuai prediksi,5,17.43,58.82,8.31,27728,188.0,70.22
+Aceh Utara,Aceh,2022,70.22,69.12,1.1,Sesuai prediksi,5,16.86,56.76,7.08,28687,190.0,70.22
+Aceh Utara,Aceh,2023,70.87,69.12,1.75,Sesuai prediksi,5,16.64,58.97,7.07,28502,193.0,70.22
+Aceh Utara,Aceh,2024,71.7,69.12,2.58,Sesuai prediksi,5,16.11,59.18,6.88,29218,195.0,70.22
+Aceh Utara,Aceh,2025,72.64,69.65,2.99,Sesuai prediksi,5,14.27,59.71,6.88,29189,236.0,70.72
+Bener Meriah,Aceh,2017,71.89,65.21,6.68,Di atas prediksi,5,21.14,79.49,1.06,23422,75.0,65.62
+Bener Meriah,Aceh,2018,72.14,65.85,6.29,Di atas prediksi,5,20.13,78.28,1.06,23966,100.0,66.32
+Bener Meriah,Aceh,2019,72.97,65.85,7.12,Di atas prediksi,5,19.3,76.7,1.03,24838,78.0,66.34
+Bener Meriah,Aceh,2020,72.98,65.98,7.0,Di atas prediksi,5,18.89,82.26,1.35,22631,111.0,66.43
+Bener Meriah,Aceh,2021,73.27,67.04,6.23,Di atas prediksi,5,19.16,77.31,1.24,22960,113.0,67.34
+Bener Meriah,Aceh,2022,73.9,67.81,6.09,Di atas prediksi,5,18.39,79.56,2.61,23336,116.0,67.93
+Bener Meriah,Aceh,2023,74.49,65.98,8.51,Di atas prediksi,5,18.31,83.2,2.45,24140,116.0,66.1
+Bener Meriah,Aceh,2024,75.01,65.64,9.37,Di atas prediksi,5,18.18,83.78,2.2,24523,118.0,66.11
+Bener Meriah,Aceh,2025,75.91,65.98,9.93,Di atas prediksi,5,16.2,83.01,2.1,24704,91.0,66.41
+Gayo Lues,Aceh,2017,65.01,66.53,-1.52,Sesuai prediksi,4,21.97,74.57,2.49,20563,16.0,66.16
+Gayo Lues,Aceh,2018,65.88,66.42,-0.54,Sesuai prediksi,4,20.7,78.14,2.49,20474,16.0,66.16
+Gayo Lues,Aceh,2019,66.87,66.53,0.34,Sesuai prediksi,4,19.87,75.22,1.74,20680,17.0,66.49
+Gayo Lues,Aceh,2020,67.22,62.04,5.18,Di atas prediksi,4,19.32,86.5,2.01,19551,17.0,62.18
+Gayo Lues,Aceh,2021,67.56,66.53,1.03,Sesuai prediksi,4,19.64,79.12,1.84,19616,18.0,66.55
+Gayo Lues,Aceh,2022,68.25,66.29,1.96,Sesuai prediksi,4,18.87,79.98,2.7,19925,18.0,66.06
+Gayo Lues,Aceh,2023,68.93,66.72,2.21,Sesuai prediksi,4,18.82,78.5,2.65,20338,18.0,66.45
+Gayo Lues,Aceh,2024,69.83,66.85,2.98,Sesuai prediksi,4,18.3,79.24,2.4,20629,19.0,66.51
+Gayo Lues,Aceh,2025,70.69,66.85,3.84,Di atas prediksi,4,16.77,78.41,2.24,20686,20.0,66.63
+Kota Subulussalam,Aceh,2017,62.88,68.31,-5.43,Di bawah prediksi,2,19.71,61.85,6.44,15832,67.0,69.12
+Kota Subulussalam,Aceh,2018,63.48,68.58,-5.1,Di bawah prediksi,2,18.51,58.96,6.44,16218,58.0,69.61
+Kota Subulussalam,Aceh,2019,64.46,68.16,-3.7,Di bawah prediksi,2,17.95,64.11,7.25,16989,69.0,68.34
+Kota Subulussalam,Aceh,2020,64.93,67.81,-2.88,Sesuai prediksi,2,17.6,63.77,6.93,15356,65.0,68.1
+Kota Subulussalam,Aceh,2021,65.27,68.16,-2.89,Sesuai prediksi,2,17.65,63.66,6.26,15565,67.0,68.41
+Kota Subulussalam,Aceh,2022,66.2,67.79,-1.59,Sesuai prediksi,2,16.94,66.84,5.75,15826,68.0,68.01
+Kota Subulussalam,Aceh,2023,67.1,67.66,-0.56,Sesuai prediksi,2,16.41,67.54,5.69,16094,70.0,67.82
+Kota Subulussalam,Aceh,2024,68.04,67.44,0.6,Sesuai prediksi,2,16.38,68.42,5.12,16383,71.0,67.39
+Kota Subulussalam,Aceh,2025,69.03,68.37,0.66,Sesuai prediksi,2,13.88,67.82,4.87,16647,86.0,68.67
+Nagan Raya,Aceh,2017,67.78,69.78,-2.0,Sesuai prediksi,2,19.34,62.75,5.91,36355,46.0,70.98
+Nagan Raya,Aceh,2018,68.15,69.78,-1.63,Sesuai prediksi,2,18.97,60.43,5.91,37183,49.0,71.18
+Nagan Raya,Aceh,2019,69.11,69.22,-0.11,Sesuai prediksi,2,17.97,61.3,5.35,39662,47.0,70.38
+Nagan Raya,Aceh,2020,69.18,68.71,0.47,Sesuai prediksi,2,17.7,66.39,5.11,40227,50.0,69.08
+Nagan Raya,Aceh,2021,69.31,68.81,0.5,Sesuai prediksi,2,18.23,64.81,4.99,41380,51.0,69.21
+Nagan Raya,Aceh,2022,70.1,68.99,1.11,Sesuai prediksi,2,17.38,66.46,5.84,42154,52.0,69.7
+Nagan Raya,Aceh,2023,70.78,69.36,1.42,Sesuai prediksi,2,17.25,63.54,5.74,44487,52.0,69.92
+Nagan Raya,Aceh,2024,71.72,68.81,2.91,Sesuai prediksi,2,16.94,63.82,5.22,45887,52.0,69.3
+Nagan Raya,Aceh,2025,72.49,69.17,3.32,Di atas prediksi,2,15.42,64.18,5.06,47198,52.0,69.96
+Pidie,Aceh,2017,69.52,67.89,1.63,Sesuai prediksi,3,21.43,63.05,7.24,16534,136.0,68.17
+Pidie,Aceh,2018,69.93,67.98,1.95,Sesuai prediksi,3,20.47,62.38,7.24,16964,142.0,68.27
+Pidie,Aceh,2019,70.41,67.98,2.43,Sesuai prediksi,3,19.46,63.76,6.83,17580,140.0,68.29
+Pidie,Aceh,2020,70.63,67.88,2.75,Sesuai prediksi,3,19.23,66.17,6.45,17895,141.0,67.86
+Pidie,Aceh,2021,70.7,67.98,2.72,Sesuai prediksi,3,19.59,61.06,7.28,18168,142.0,68.27
+Pidie,Aceh,2022,71.2,67.88,3.32,Di atas prediksi,3,18.79,66.11,5.94,18697,144.0,67.86
+Pidie,Aceh,2023,71.66,67.88,3.78,Di atas prediksi,3,18.78,61.78,5.92,19237,145.0,67.86
+Pidie,Aceh,2024,72.31,68.2,4.11,Di atas prediksi,3,18.59,62.36,5.74,19837,147.0,68.22
+Pidie,Aceh,2025,73.17,68.46,4.71,Di atas prediksi,3,16.46,63.15,5.71,20234,146.0,68.52
+Pidie Jaya,Aceh,2017,71.73,66.74,4.99,Di atas prediksi,4,21.82,60.12,5.02,15446,163.0,66.7
+Pidie Jaya,Aceh,2018,72.12,66.74,5.38,Di atas prediksi,4,20.17,61.9,5.02,15825,147.0,66.7
+Pidie Jaya,Aceh,2019,72.87,66.26,6.61,Di atas prediksi,4,19.31,60.74,4.34,16420,170.0,66.18
+Pidie Jaya,Aceh,2020,73.2,67.21,5.99,Di atas prediksi,4,19.19,62.76,6.58,16362,148.0,67.53
+Pidie Jaya,Aceh,2021,73.6,66.08,7.52,Di atas prediksi,4,19.55,58.36,3.57,16469,149.0,65.98
+Pidie Jaya,Aceh,2022,74.34,66.26,8.08,Di atas prediksi,4,18.45,58.56,4.4,16830,152.0,66.18
+Pidie Jaya,Aceh,2023,74.8,66.26,8.54,Di atas prediksi,4,18.4,60.07,4.34,17310,153.0,66.18
+Pidie Jaya,Aceh,2024,75.16,66.38,8.78,Di atas prediksi,4,18.28,60.11,3.82,17871,155.0,66.27
+Pidie Jaya,Aceh,2025,75.81,66.38,9.43,Di atas prediksi,4,16.12,60.52,3.67,18106,177.0,66.27
+Simeulue,Aceh,2017,64.41,67.55,-3.14,Di bawah prediksi,3,20.2,63.51,4.95,16067,50.0,67.58
+Simeulue,Aceh,2018,64.74,67.7,-2.96,Sesuai prediksi,3,19.78,63.98,4.95,16558,45.0,67.65
+Simeulue,Aceh,2019,65.7,67.68,-1.98,Sesuai prediksi,3,18.99,62.03,5.82,17000,51.0,67.65
+Simeulue,Aceh,2020,66.03,67.68,-1.65,Sesuai prediksi,3,18.49,70.04,5.47,17296,45.0,67.65
+Simeulue,Aceh,2021,66.41,67.68,-1.27,Sesuai prediksi,3,18.98,70.88,5.71,17616,46.0,67.65
+Simeulue,Aceh,2022,67.27,67.88,-0.61,Sesuai prediksi,3,18.37,63.94,6.0,18065,46.0,67.84
+Simeulue,Aceh,2023,68.06,67.68,0.38,Sesuai prediksi,3,17.92,70.34,5.85,18607,47.0,67.65
+Simeulue,Aceh,2024,69.01,67.68,1.33,Sesuai prediksi,3,17.69,70.86,5.5,19130,48.0,67.65
+Simeulue,Aceh,2025,70.0,68.35,1.65,Sesuai prediksi,3,15.52,70.14,5.31,19563,55.0,68.22
+Bengkulu Selatan,Bengkulu,2017,69.04,67.8,1.24,Sesuai prediksi,1,21.06,72.09,2.6,21114,132.0,68.0
+Bengkulu Selatan,Bengkulu,2018,69.85,67.9,1.95,Sesuai prediksi,1,18.65,71.74,2.91,21945,132.0,68.02
+Bengkulu Selatan,Bengkulu,2019,70.27,67.9,2.37,Sesuai prediksi,1,18.54,70.05,2.32,21563,134.0,68.02
+Bengkulu Selatan,Bengkulu,2020,70.63,67.9,2.73,Sesuai prediksi,1,17.82,70.1,3.52,21856,136.0,68.07
+Bengkulu Selatan,Bengkulu,2021,70.75,68.02,2.73,Sesuai prediksi,1,18.16,73.94,2.55,22320,142.0,68.3
+Bengkulu Selatan,Bengkulu,2022,71.42,68.02,3.4,Di atas prediksi,1,17.86,75.64,3.51,22831,139.4,68.52
+Bengkulu Selatan,Bengkulu,2023,71.91,68.02,3.89,Di atas prediksi,1,17.51,75.78,3.56,23300,140.52,68.52
+Bengkulu Selatan,Bengkulu,2024,72.35,68.02,4.33,Di atas prediksi,1,17.1,74.26,3.21,24061,142.04,68.3
+Bengkulu Selatan,Bengkulu,2025,73.14,68.89,4.25,Di atas prediksi,1,15.72,72.83,2.86,24890,144.0,69.56
+Kaur,Bengkulu,2017,65.28,66.89,-1.61,Sesuai prediksi,3,21.54,73.5,1.9,17296,51.0,66.74
+Kaur,Bengkulu,2018,66.2,67.21,-1.01,Sesuai prediksi,3,19.4,73.09,2.69,17946,51.0,67.08
+Kaur,Bengkulu,2019,66.78,67.39,-0.61,Sesuai prediksi,3,18.89,71.68,2.34,18635,51.0,67.16
+Kaur,Bengkulu,2020,66.99,67.39,-0.4,Sesuai prediksi,3,18.47,69.08,2.73,17938,49.0,67.16
+Kaur,Bengkulu,2021,67.17,67.39,-0.22,Sesuai prediksi,3,18.62,68.82,3.45,18252,54.0,67.23
+Kaur,Bengkulu,2022,67.77,67.39,0.38,Sesuai prediksi,3,18.1,71.73,3.83,18701,49.7,67.23
+Kaur,Bengkulu,2023,68.38,67.39,0.99,Sesuai prediksi,3,17.83,68.04,3.81,19104,50.24,67.23
+Kaur,Bengkulu,2024,68.98,67.91,1.07,Sesuai prediksi,3,17.12,71.16,3.84,19658,50.85,67.78
+Kaur,Bengkulu,2025,69.9,68.5,1.4,Sesuai prediksi,3,15.82,73.36,3.88,20323,51.0,68.52
+Kota Bengkulu,Bengkulu,2017,78.82,69.29,9.53,Di atas prediksi,5,19.18,63.48,6.61,37486,2482.0,69.52
+Kota Bengkulu,Bengkulu,2018,79.67,69.16,10.51,Di atas prediksi,5,18.82,64.37,4.86,38653,2482.0,69.24
+Kota Bengkulu,Bengkulu,2019,80.35,68.72,11.63,Di atas prediksi,5,18.09,65.22,4.16,41723,2539.0,68.7
+Kota Bengkulu,Bengkulu,2020,80.36,69.29,11.07,Di atas prediksi,5,17.65,66.0,6.82,41096,2485.0,69.48
+Kota Bengkulu,Bengkulu,2021,80.54,69.29,11.25,Di atas prediksi,5,17.89,65.44,6.35,41805,2496.0,69.48
+Kota Bengkulu,Bengkulu,2022,80.99,69.34,11.65,Di atas prediksi,5,15.73,66.31,6.15,43474,2560.32,69.91
+Kota Bengkulu,Bengkulu,2023,81.45,69.82,11.63,Di atas prediksi,5,14.71,66.58,5.04,45151,2602.07,70.79
+Kota Bengkulu,Bengkulu,2024,82.04,69.82,12.22,Di atas prediksi,5,13.76,68.51,5.19,46839,2643.34,70.87
+Kota Bengkulu,Bengkulu,2025,82.68,69.82,12.86,Di atas prediksi,5,11.91,66.69,5.34,48689,2684.0,70.87
+Rejang Lebong,Bengkulu,2017,68.61,67.9,0.71,Sesuai prediksi,1,16.97,76.67,3.0,21324,159.0,67.33
+Rejang Lebong,Bengkulu,2018,69.4,68.02,1.38,Sesuai prediksi,1,16.23,76.92,1.61,22282,159.0,67.66
+Rejang Lebong,Bengkulu,2019,70.1,68.02,2.08,Sesuai prediksi,1,15.95,76.34,2.7,22647,159.0,67.68
+Rejang Lebong,Bengkulu,2020,70.44,67.96,2.48,Sesuai prediksi,1,15.85,77.82,3.7,22021,179.0,67.51
+Rejang Lebong,Bengkulu,2021,70.77,68.09,2.68,Sesuai prediksi,1,15.85,75.99,2.45,22464,170.0,67.63
+Rejang Lebong,Bengkulu,2022,71.45,69.13,2.32,Sesuai prediksi,1,15.65,74.36,2.28,23163,181.59,68.65
+Rejang Lebong,Bengkulu,2023,72.31,69.13,3.18,Di atas prediksi,1,14.79,77.66,2.94,23832,184.45,68.98
+Rejang Lebong,Bengkulu,2024,72.92,69.13,3.79,Di atas prediksi,1,14.65,74.72,2.92,24586,186.46,68.65
+Rejang Lebong,Bengkulu,2025,73.75,69.13,4.62,Di atas prediksi,1,11.71,76.06,2.91,25364,188.0,69.46
+Seluma,Bengkulu,2017,65.0,65.5,-0.5,Sesuai prediksi,5,20.73,76.7,3.22,13751,80.0,65.33
+Seluma,Bengkulu,2018,65.99,66.29,-0.3,Sesuai prediksi,5,19.6,71.34,2.83,14258,80.0,66.01
+Seluma,Bengkulu,2019,66.69,66.29,0.4,Sesuai prediksi,5,19.1,73.69,2.25,14763,81.0,66.29
+Seluma,Bengkulu,2020,66.89,66.11,0.78,Sesuai prediksi,5,18.56,76.08,3.04,13851,85.0,66.0
+Seluma,Bengkulu,2021,67.03,66.11,0.92,Sesuai prediksi,5,18.72,69.69,3.44,13968,88.0,65.86
+Seluma,Bengkulu,2022,67.76,66.29,1.47,Sesuai prediksi,5,18.36,70.08,1.74,14205,87.86,66.28
+Seluma,Bengkulu,2023,68.27,66.29,1.98,Sesuai prediksi,5,18.0,72.97,2.68,14405,88.4,66.01
+Seluma,Bengkulu,2024,68.97,66.31,2.66,Sesuai prediksi,5,17.23,72.94,2.38,14818,89.41,66.19
+Seluma,Bengkulu,2025,69.84,66.31,3.53,Di atas prediksi,5,15.98,72.99,2.07,15209,90.0,66.47
+Gunung Kidul,D I Yogyakarta,2017,68.73,67.33,1.4,Sesuai prediksi,1,18.65,74.5,2.11,16839,491.0,66.83
+Gunung Kidul,D I Yogyakarta,2018,69.24,67.33,1.91,Sesuai prediksi,1,17.12,77.13,2.11,17542,496.0,67.09
+Gunung Kidul,D I Yogyakarta,2019,69.96,67.33,2.63,Sesuai prediksi,1,16.61,76.62,1.96,18158,500.0,67.09
+Gunung Kidul,D I Yogyakarta,2020,69.98,67.38,2.6,Sesuai prediksi,1,17.07,65.34,2.16,18121,522.0,66.88
+Gunung Kidul,D I Yogyakarta,2021,70.16,67.33,2.83,Sesuai prediksi,1,17.69,76.42,2.2,19017,510.0,67.09
+Gunung Kidul,D I Yogyakarta,2022,70.96,67.84,3.12,Di atas prediksi,1,15.86,74.69,2.08,20000,523.0,67.39
+Gunung Kidul,D I Yogyakarta,2023,71.24,69.0,2.24,Sesuai prediksi,1,15.6,76.88,2.09,20970,506.0,69.2
+Gunung Kidul,D I Yogyakarta,2024,71.89,69.0,2.89,Sesuai prediksi,1,15.18,77.06,2.16,21945,507.0,69.2
+Gunung Kidul,D I Yogyakarta,2025,72.88,69.13,3.75,Di atas prediksi,1,14.15,77.18,2.15,23115,506.0,69.85
+Kulon Progo,D I Yogyakarta,2017,73.23,66.08,7.15,Di atas prediksi,4,20.03,74.61,1.51,16552,719.0,66.43
+Kulon Progo,D I Yogyakarta,2018,73.76,66.38,7.38,Di atas prediksi,4,18.3,76.62,1.51,18151,726.0,66.75
+Kulon Progo,D I Yogyakarta,2019,74.44,67.73,6.71,Di atas prediksi,4,17.39,76.78,1.8,20300,734.0,67.97
+Kulon Progo,D I Yogyakarta,2020,74.46,66.38,8.08,Di atas prediksi,4,18.01,78.11,3.71,19329,744.0,66.38
+Kulon Progo,D I Yogyakarta,2021,74.71,67.64,7.07,Di atas prediksi,4,18.38,76.98,3.69,20168,756.0,67.44
+Kulon Progo,D I Yogyakarta,2022,75.46,67.73,7.73,Di atas prediksi,4,16.39,79.07,2.8,21373,782.0,67.6
+Kulon Progo,D I Yogyakarta,2023,75.79,69.06,6.73,Di atas prediksi,4,15.64,75.92,2.4,22463,756.0,69.84
+Kulon Progo,D I Yogyakarta,2024,76.14,69.06,7.08,Di atas prediksi,4,15.62,78.68,2.01,23413,763.0,70.2
+Kulon Progo,D I Yogyakarta,2025,76.93,69.34,7.59,Di atas prediksi,4,14.53,78.58,2.14,24316,760.0,71.19
+Boalemo,Gorontalo,2017,64.22,67.93,-3.71,Di bawah prediksi,3,21.85,70.55,4.88,19442,94.0,67.87
+Boalemo,Gorontalo,2018,64.99,67.99,-3.0,Sesuai prediksi,3,20.33,70.76,3.62,20200,94.0,67.99
+Boalemo,Gorontalo,2019,65.53,68.22,-2.69,Sesuai prediksi,3,18.87,69.27,2.96,21606,94.0,68.09
+Boalemo,Gorontalo,2020,65.91,68.43,-2.52,Sesuai prediksi,3,18.57,66.95,3.66,24025,96.0,68.43
+Boalemo,Gorontalo,2021,66.42,68.43,-2.01,Sesuai prediksi,3,19.0,65.4,3.57,24201,97.0,68.44
+Boalemo,Gorontalo,2022,67.27,68.43,-1.16,Sesuai prediksi,3,18.74,72.28,2.07,24620,81.0,68.26
+Boalemo,Gorontalo,2023,68.18,68.43,-0.25,Sesuai prediksi,3,18.38,72.01,2.86,25379,83.0,68.58
+Boalemo,Gorontalo,2024,68.74,68.43,0.31,Sesuai prediksi,3,17.83,69.29,2.97,25946,84.0,68.44
+Boalemo,Gorontalo,2025,69.29,68.43,0.86,Sesuai prediksi,3,16.37,74.3,3.09,26892,85.0,68.58
+Bone Bolango,Gorontalo,2017,68.11,66.86,1.25,Sesuai prediksi,4,17.81,65.18,4.7,17725,84.0,66.79
+Bone Bolango,Gorontalo,2018,69.06,66.38,2.68,Sesuai prediksi,4,17.4,66.65,3.93,18626,84.0,66.27
+Bone Bolango,Gorontalo,2019,69.63,67.46,2.17,Sesuai prediksi,4,16.12,65.95,3.99,20121,84.0,67.33
+Bone Bolango,Gorontalo,2020,69.98,67.02,2.96,Sesuai prediksi,4,15.81,63.74,4.48,19440,82.0,67.06
+Bone Bolango,Gorontalo,2021,70.25,67.46,2.79,Sesuai prediksi,4,16.3,65.22,3.45,19622,83.0,67.33
+Bone Bolango,Gorontalo,2022,70.9,67.46,3.44,Di atas prediksi,4,16.05,65.34,3.29,20161,88.0,67.33
+Bone Bolango,Gorontalo,2023,71.51,68.18,3.33,Di atas prediksi,4,15.51,68.39,3.39,20799,89.0,68.28
+Bone Bolango,Gorontalo,2024,72.38,68.45,3.93,Di atas prediksi,4,14.8,68.85,3.7,21407,90.0,69.09
+Bone Bolango,Gorontalo,2025,72.86,69.09,3.77,Di atas prediksi,4,13.16,66.99,4.02,22214,91.0,70.22
+Gorontalo Utara,Gorontalo,2017,63.52,67.94,-4.42,Di bawah prediksi,5,19.23,65.97,5.08,18028,53.0,67.98
+Gorontalo Utara,Gorontalo,2018,64.06,67.59,-3.53,Di bawah prediksi,5,18.54,71.57,4.35,19097,53.0,67.58
+Gorontalo Utara,Gorontalo,2019,64.52,68.51,-3.99,Di bawah prediksi,5,16.95,69.26,4.57,20770,53.0,68.64
+Gorontalo Utara,Gorontalo,2020,64.86,67.94,-3.08,Sesuai prediksi,5,16.88,69.26,5.21,18678,75.0,67.73
+Gorontalo Utara,Gorontalo,2021,65.21,67.32,-2.11,Sesuai prediksi,5,17.23,68.32,2.3,18774,75.0,67.06
+Gorontalo Utara,Gorontalo,2022,66.01,67.32,-1.31,Sesuai prediksi,5,17.24,69.72,2.02,19093,75.0,67.35
+Gorontalo Utara,Gorontalo,2023,66.61,68.23,-1.62,Sesuai prediksi,5,17.03,70.81,2.77,19598,77.0,68.13
+Gorontalo Utara,Gorontalo,2024,67.46,68.23,-0.77,Sesuai prediksi,5,16.86,69.65,2.91,20099,78.0,68.13
+Gorontalo Utara,Gorontalo,2025,68.25,68.39,-0.14,Sesuai prediksi,5,15.89,74.35,3.05,20933,79.0,68.3
+Pohuwato,Gorontalo,2017,63.88,67.96,-4.08,Di bawah prediksi,5,21.27,60.8,2.7,26454,35.0,68.68
+Pohuwato,Gorontalo,2018,64.44,68.23,-3.79,Di bawah prediksi,5,19.4,69.38,2.72,27532,35.0,68.42
+Pohuwato,Gorontalo,2019,65.27,68.23,-2.96,Sesuai prediksi,5,18.16,69.74,2.73,29318,35.0,68.42
+Pohuwato,Gorontalo,2020,65.37,68.23,-2.86,Sesuai prediksi,5,17.62,70.53,3.1,31502,35.0,68.43
+Pohuwato,Gorontalo,2021,65.8,68.23,-2.43,Sesuai prediksi,5,18.08,69.81,2.45,31785,35.0,68.43
+Pohuwato,Gorontalo,2022,66.53,68.23,-1.7,Sesuai prediksi,5,17.87,70.2,3.41,32356,34.0,68.43
+Pohuwato,Gorontalo,2023,67.15,68.23,-1.08,Sesuai prediksi,5,17.64,72.68,3.46,33357,35.0,68.44
+Pohuwato,Gorontalo,2024,68.02,68.23,-0.21,Sesuai prediksi,5,17.11,71.77,3.14,34265,35.0,68.44
+Pohuwato,Gorontalo,2025,68.42,68.87,-0.45,Sesuai prediksi,5,15.24,71.4,2.83,36392,36.0,69.38
+Brebes,Jawa Tengah,2017,64.86,68.57,-3.71,Di bawah prediksi,1,19.14,67.42,7.2,16430,1088.0,68.28
+Brebes,Jawa Tengah,2018,65.68,68.57,-2.89,Sesuai prediksi,1,17.17,67.18,7.2,17229,1088.0,68.9
+Brebes,Jawa Tengah,2019,66.12,68.57,-2.45,Sesuai prediksi,1,16.22,66.07,7.39,18247,951.0,68.9
+Brebes,Jawa Tengah,2020,66.11,68.57,-2.46,Sesuai prediksi,1,17.03,66.64,9.83,16558,1132.0,68.9
+Brebes,Jawa Tengah,2021,66.32,68.57,-2.25,Sesuai prediksi,1,17.43,63.95,9.78,16795,1047.0,68.9
+Brebes,Jawa Tengah,2022,67.03,68.57,-1.54,Sesuai prediksi,1,16.05,66.0,9.48,17513,1213.0,68.9
+Brebes,Jawa Tengah,2023,67.95,68.73,-0.78,Sesuai prediksi,1,15.78,65.93,8.98,17963,1154.0,69.01
+Brebes,Jawa Tengah,2024,68.46,68.85,-0.39,Sesuai prediksi,1,15.6,71.74,8.35,18670,1167.0,69.13
+Brebes,Jawa Tengah,2025,69.46,69.79,-0.33,Sesuai prediksi,1,14.15,71.74,8.07,19477,1198.0,70.16
+Kebumen,Jawa Tengah,2017,68.29,66.89,1.4,Sesuai prediksi,4,19.6,66.84,5.48,14929,932.0,66.87
+Kebumen,Jawa Tengah,2018,68.8,66.89,1.91,Sesuai prediksi,4,17.47,65.94,5.48,15713,932.0,66.87
+Kebumen,Jawa Tengah,2019,69.6,66.74,2.86,Sesuai prediksi,4,16.82,68.88,4.69,16623,989.0,66.75
+Kebumen,Jawa Tengah,2020,69.81,67.21,2.6,Sesuai prediksi,4,17.59,69.78,6.07,14499,1008.0,67.11
+Kebumen,Jawa Tengah,2021,70.05,67.21,2.84,Sesuai prediksi,4,17.83,67.9,6.03,14862,1124.0,67.11
+Kebumen,Jawa Tengah,2022,70.79,67.21,3.58,Di atas prediksi,4,16.41,71.69,5.92,15523,1073.0,67.11
+Kebumen,Jawa Tengah,2023,71.37,66.74,4.63,Di atas prediksi,4,16.34,74.43,5.11,16193,1048.0,66.75
+Kebumen,Jawa Tengah,2024,71.93,67.45,4.48,Di atas prediksi,4,15.71,77.27,5.07,16856,1060.0,67.68
+Kebumen,Jawa Tengah,2025,72.62,67.83,4.79,Di atas prediksi,4,13.58,76.07,4.95,17637,1073.0,68.96
+Pemalang,Jawa Tengah,2017,65.04,66.43,-1.39,Sesuai prediksi,2,17.37,65.57,6.17,12603,1284.0,66.53
+Pemalang,Jawa Tengah,2018,65.67,66.61,-0.94,Sesuai prediksi,2,16.04,65.62,6.17,13284,1284.0,66.7
+Pemalang,Jawa Tengah,2019,66.32,67.26,-0.94,Sesuai prediksi,2,15.41,66.6,6.45,14089,1165.0,67.56
+Pemalang,Jawa Tengah,2020,66.32,66.43,-0.11,Sesuai prediksi,2,16.02,65.86,7.64,12373,1290.0,66.53
+Pemalang,Jawa Tengah,2021,66.56,66.43,0.13,Sesuai prediksi,2,16.56,66.16,6.71,12739,1328.0,66.53
+Pemalang,Jawa Tengah,2022,67.19,66.32,0.87,Sesuai prediksi,2,15.06,70.17,6.63,13219,1483.0,66.6
+Pemalang,Jawa Tengah,2023,68.03,66.46,1.57,Sesuai prediksi,2,15.03,69.41,6.55,13596,1366.0,66.76
+Pemalang,Jawa Tengah,2024,68.55,67.19,1.36,Sesuai prediksi,2,14.92,72.12,6.63,14132,1382.0,67.56
+Pemalang,Jawa Tengah,2025,69.37,68.05,1.32,Sesuai prediksi,2,13.32,71.84,6.61,14783,1371.0,68.93
+Purbalingga,Jawa Tengah,2017,67.72,67.81,-0.09,Sesuai prediksi,2,18.8,71.68,6.02,17036,1190.0,68.11
+Purbalingga,Jawa Tengah,2018,68.41,67.95,0.46,Sesuai prediksi,2,15.62,70.84,6.02,17790,1190.0,68.27
+Purbalingga,Jawa Tengah,2019,68.99,68.08,0.91,Sesuai prediksi,2,15.03,68.41,4.73,18708,1378.0,68.25
+Purbalingga,Jawa Tengah,2020,68.97,67.81,1.16,Sesuai prediksi,2,15.9,70.18,6.1,17258,1235.0,68.15
+Purbalingga,Jawa Tengah,2021,69.15,67.81,1.34,Sesuai prediksi,2,16.24,69.8,6.05,17622,1487.0,68.15
+Purbalingga,Jawa Tengah,2022,69.54,68.08,1.46,Sesuai prediksi,2,15.3,73.68,5.23,18382,1311.0,68.22
+Purbalingga,Jawa Tengah,2023,70.24,68.19,2.05,Sesuai prediksi,2,14.99,73.36,5.61,19005,1321.0,68.27
+Purbalingga,Jawa Tengah,2024,70.69,69.58,1.11,Sesuai prediksi,2,14.18,74.37,4.96,19677,1334.0,71.2
+Purbalingga,Jawa Tengah,2025,71.43,69.75,1.68,Sesuai prediksi,2,12.55,75.25,4.83,20641,1300.0,71.65
+Wonosobo,Jawa Tengah,2017,66.89,67.02,-0.13,Sesuai prediksi,5,20.32,72.37,3.5,15858,800.0,66.66
+Wonosobo,Jawa Tengah,2018,67.81,67.32,0.49,Sesuai prediksi,5,17.58,72.27,3.5,16594,800.0,67.0
+Wonosobo,Jawa Tengah,2019,68.27,67.32,0.95,Sesuai prediksi,5,16.63,71.86,3.43,17532,805.0,67.0
+Wonosobo,Jawa Tengah,2020,68.22,67.46,0.76,Sesuai prediksi,5,17.36,71.08,5.37,15473,866.0,67.13
+Wonosobo,Jawa Tengah,2021,68.43,67.46,0.97,Sesuai prediksi,5,17.67,70.59,5.26,15850,903.0,67.13
+Wonosobo,Jawa Tengah,2022,68.89,67.76,1.13,Sesuai prediksi,5,16.17,74.33,5.01,16438,910.0,67.48
+Wonosobo,Jawa Tengah,2023,69.37,68.22,1.15,Sesuai prediksi,5,15.58,73.36,4.95,16935,924.0,68.36
+Wonosobo,Jawa Tengah,2024,69.82,67.87,1.95,Sesuai prediksi,5,15.28,74.76,4.02,17507,935.0,68.85
+Wonosobo,Jawa Tengah,2025,70.69,68.02,2.67,Sesuai prediksi,5,13.34,75.54,3.99,18176,920.0,69.5
+Bangkalan,Jawa Timur,2017,62.3,67.71,-5.41,Di bawah prediksi,3,21.32,68.07,5.09,18147,969.0,67.43
+Bangkalan,Jawa Timur,2018,62.87,67.8,-4.93,Di bawah prediksi,3,19.59,69.87,5.09,18757,978.0,68.02
+Bangkalan,Jawa Timur,2019,63.79,67.89,-4.1,Di bawah prediksi,3,18.9,64.32,5.62,18787,985.0,68.19
+Bangkalan,Jawa Timur,2020,64.11,68.0,-3.89,Di bawah prediksi,3,20.56,67.76,8.77,16573,1059.0,67.69
+Bangkalan,Jawa Timur,2021,64.36,67.76,-3.4,Di bawah prediksi,3,21.57,69.36,8.07,16038,1070.0,67.52
+Bangkalan,Jawa Timur,2022,65.05,68.01,-2.96,Sesuai prediksi,3,19.44,74.55,8.05,15693,835.0,68.98
+Bangkalan,Jawa Timur,2023,65.75,67.84,-2.09,Sesuai prediksi,3,19.35,71.79,6.18,15721,839.0,68.14
+Bangkalan,Jawa Timur,2024,66.27,67.74,-1.47,Sesuai prediksi,3,18.66,70.77,5.35,15871,847.0,68.11
+Bangkalan,Jawa Timur,2025,67.09,68.08,-0.99,Sesuai prediksi,3,18.25,69.22,5.31,16435,855.0,68.38
+Probolinggo,Jawa Timur,2017,64.28,67.31,-3.03,Sesuai prediksi,3,20.52,66.59,4.0,18540,681.0,67.03
+Probolinggo,Jawa Timur,2018,64.85,67.6,-2.75,Sesuai prediksi,3,18.71,69.2,4.0,19254,685.0,67.75
+Probolinggo,Jawa Timur,2019,65.6,68.3,-2.7,Sesuai prediksi,3,17.76,69.5,3.77,20011,689.0,68.54
+Probolinggo,Jawa Timur,2020,66.07,68.4,-2.33,Sesuai prediksi,3,18.61,73.41,4.86,19882,679.0,68.72
+Probolinggo,Jawa Timur,2021,66.26,68.38,-2.12,Sesuai prediksi,3,18.91,73.75,4.55,20409,681.0,68.6
+Probolinggo,Jawa Timur,2022,66.96,68.57,-1.61,Sesuai prediksi,3,17.12,72.06,3.25,21170,673.0,68.79
+Probolinggo,Jawa Timur,2023,67.79,68.78,-0.99,Sesuai prediksi,3,17.19,69.89,3.24,22010,682.0,69.06
+Probolinggo,Jawa Timur,2024,68.29,68.78,-0.49,Sesuai prediksi,3,16.45,73.52,3.0,22910,687.0,69.13
+Probolinggo,Jawa Timur,2025,69.09,69.4,-0.31,Sesuai prediksi,3,16.31,76.99,2.92,23970,692.0,70.81
+Sampang,Jawa Timur,2017,59.9,66.08,-6.18,Di bawah prediksi,4,23.56,69.04,2.38,13776,777.0,66.09
+Sampang,Jawa Timur,2018,61.0,66.08,-5.08,Di bawah prediksi,4,21.21,67.97,2.38,14188,786.0,66.1
+Sampang,Jawa Timur,2019,61.94,66.08,-4.14,Di bawah prediksi,4,20.71,67.32,2.71,14279,794.0,66.07
+Sampang,Jawa Timur,2020,62.7,66.08,-3.38,Di bawah prediksi,4,22.78,70.41,3.35,14418,786.0,66.07
+Sampang,Jawa Timur,2021,62.8,66.08,-3.28,Di bawah prediksi,4,23.76,70.72,3.45,14273,792.0,66.07
+Sampang,Jawa Timur,2022,63.39,66.08,-2.69,Sesuai prediksi,4,21.61,73.82,3.11,14418,801.0,66.07
+Sampang,Jawa Timur,2023,64.13,66.08,-1.95,Sesuai prediksi,4,21.76,73.7,2.72,14608,818.0,66.07
+Sampang,Jawa Timur,2024,64.65,66.08,-1.43,Sesuai prediksi,4,20.83,73.82,2.5,14686,827.0,66.1
+Sampang,Jawa Timur,2025,65.16,66.08,-0.92,Sesuai prediksi,4,20.61,77.61,2.44,15026,837.0,66.12
+Sumenep,Jawa Timur,2017,64.28,68.23,-3.95,Di bawah prediksi,5,19.62,73.21,1.75,21226,541.0,68.51
+Sumenep,Jawa Timur,2018,65.25,68.23,-2.98,Sesuai prediksi,5,20.16,72.61,1.75,21915,543.0,68.51
+Sumenep,Jawa Timur,2019,66.22,68.23,-2.01,Sesuai prediksi,5,19.48,75.95,2.08,21863,545.0,69.3
+Sumenep,Jawa Timur,2020,66.43,68.23,-1.8,Sesuai prediksi,5,20.18,75.66,2.84,20970,563.0,68.98
+Sumenep,Jawa Timur,2021,67.04,68.23,-1.19,Sesuai prediksi,5,20.51,76.18,2.31,21339,565.0,69.01
+Sumenep,Jawa Timur,2022,67.87,68.23,-0.36,Sesuai prediksi,5,18.76,75.79,1.36,21861,545.0,69.27
+Sumenep,Jawa Timur,2023,68.61,67.81,0.8,Sesuai prediksi,5,18.7,79.23,1.71,22890,550.0,68.95
+Sumenep,Jawa Timur,2024,69.26,68.23,1.03,Sesuai prediksi,5,17.78,78.53,1.69,23616,553.0,69.3
+Sumenep,Jawa Timur,2025,70.02,67.65,2.37,Sesuai prediksi,5,17.02,80.31,1.64,24628,556.0,68.81
+Lampung Utara,Lampung,2017,66.58,68.38,-1.8,Sesuai prediksi,2,21.55,64.52,5.62,24315,225.51,68.49
+Lampung Utara,Lampung,2018,67.17,68.26,-1.09,Sesuai prediksi,2,20.85,68.23,4.83,25497,225.51,68.02
+Lampung Utara,Lampung,2019,67.63,68.26,-0.63,Sesuai prediksi,2,19.9,68.08,5.11,26736,226.31,68.21
+Lampung Utara,Lampung,2020,67.67,68.53,-0.86,Sesuai prediksi,2,19.3,67.92,5.34,25705,250.28,68.65
+Lampung Utara,Lampung,2021,67.89,68.61,-0.72,Sesuai prediksi,2,19.63,66.5,6.14,26082,250.68,68.94
+Lampung Utara,Lampung,2022,68.33,69.25,-0.92,Sesuai prediksi,2,18.41,63.78,6.15,26644,239.09,69.46
+Lampung Utara,Lampung,2023,68.95,69.25,-0.3,Sesuai prediksi,2,17.17,65.24,5.73,27508,246.14,69.34
+Lampung Utara,Lampung,2024,69.62,68.87,0.75,Sesuai prediksi,2,16.92,66.34,5.76,28371,248.42,69.12
+Lampung Utara,Lampung,2025,70.48,68.77,1.71,Sesuai prediksi,2,15.78,67.12,5.78,29560,249.41,69.05
+Buru,Maluku,2017,67.61,64.66,2.95,Sesuai prediksi,2,17.4,65.22,3.45,10238,25.0,64.38
+Buru,Maluku,2018,68.25,64.57,3.68,Di atas prediksi,2,17.03,66.91,2.65,10561,25.0,64.2
+Buru,Maluku,2019,68.91,64.66,4.25,Di atas prediksi,2,16.74,66.02,2.81,11126,29.0,64.42
+Buru,Maluku,2020,68.95,64.86,4.09,Di atas prediksi,2,16.64,71.26,6.28,11601,27.0,65.05
+Buru,Maluku,2021,69.33,64.59,4.74,Di atas prediksi,2,17.28,70.38,4.85,11782,28.0,64.23
+Buru,Maluku,2022,69.94,64.66,5.28,Di atas prediksi,2,15.82,71.62,4.99,12236,28.0,64.44
+Buru,Maluku,2023,70.56,64.59,5.97,Di atas prediksi,2,16.53,73.47,4.86,12565,29.0,64.23
+Buru,Maluku,2024,71.01,64.59,6.42,Di atas prediksi,2,16.08,72.19,4.66,12945,29.0,64.23
+Buru,Maluku,2025,71.7,65.13,6.57,Di atas prediksi,2,15.11,72.44,4.66,13295,29.32,64.8
+Buru Selatan,Maluku,2017,62.75,64.29,-1.54,Sesuai prediksi,3,16.83,64.99,4.63,12958,16.0,64.22
+Buru Selatan,Maluku,2018,63.62,64.0,-0.38,Sesuai prediksi,3,16.31,70.81,2.92,13535,16.0,63.73
+Buru Selatan,Maluku,2019,64.42,63.98,0.44,Sesuai prediksi,3,16.13,73.96,2.38,14412,17.0,63.83
+Buru Selatan,Maluku,2020,64.69,64.33,0.36,Sesuai prediksi,3,15.75,73.74,2.31,11900,20.0,64.24
+Buru Selatan,Maluku,2021,64.8,64.0,0.8,Sesuai prediksi,3,15.89,75.21,1.63,12053,20.0,64.07
+Buru Selatan,Maluku,2022,65.37,63.86,1.51,Sesuai prediksi,3,14.75,74.59,0.98,12484,21.0,63.72
+Buru Selatan,Maluku,2023,66.23,63.78,2.45,Sesuai prediksi,3,15.28,68.39,0.97,12826,22.0,63.33
+Buru Selatan,Maluku,2024,67.09,65.17,1.92,Sesuai prediksi,3,14.91,71.94,1.35,13222,22.0,65.58
+Buru Selatan,Maluku,2025,67.91,65.17,2.74,Sesuai prediksi,3,14.84,72.08,1.29,13549,22.35,65.58
+Kepulauan Aru,Maluku,2017,62.13,65.82,-3.69,Di bawah prediksi,1,27.13,58.69,6.68,21650,15.0,67.11
+Kepulauan Aru,Maluku,2018,63.12,64.34,-1.22,Sesuai prediksi,1,27.12,61.98,2.75,22661,15.0,63.99
+Kepulauan Aru,Maluku,2019,63.64,64.3,-0.66,Sesuai prediksi,1,26.73,68.1,4.05,24297,12.0,64.26
+Kepulauan Aru,Maluku,2020,63.71,64.72,-1.01,Sesuai prediksi,1,26.26,68.76,3.83,22339,13.0,64.54
+Kepulauan Aru,Maluku,2021,63.83,64.34,-0.51,Sesuai prediksi,1,26.53,65.24,1.55,22709,13.0,63.99
+Kepulauan Aru,Maluku,2022,64.21,66.4,-2.19,Sesuai prediksi,1,23.51,62.1,2.1,23588,13.0,66.22
+Kepulauan Aru,Maluku,2023,65.01,66.09,-1.08,Sesuai prediksi,1,24.21,59.09,1.96,24339,13.0,66.52
+Kepulauan Aru,Maluku,2024,65.83,66.4,-0.57,Sesuai prediksi,1,23.39,61.22,1.83,25250,13.0,66.22
+Kepulauan Aru,Maluku,2025,66.56,66.4,0.16,Sesuai prediksi,1,23.1,61.08,2.1,26096,13.7,66.47
+Kota Tual,Maluku,2017,66.25,68.13,-1.88,Sesuai prediksi,3,24.0,57.28,16.5,18650,282.0,68.98
+Kota Tual,Maluku,2018,67.21,68.13,-0.92,Sesuai prediksi,3,23.42,60.02,10.91,19267,282.0,69.25
+Kota Tual,Maluku,2019,67.74,68.75,-1.01,Sesuai prediksi,3,22.68,58.03,9.3,20341,297.0,69.68
+Kota Tual,Maluku,2020,67.96,67.91,0.05,Sesuai prediksi,3,22.51,62.28,8.7,17114,347.0,67.97
+Kota Tual,Maluku,2021,68.16,67.97,0.19,Sesuai prediksi,3,23.26,60.86,8.71,17396,355.0,68.16
+Kota Tual,Maluku,2022,68.6,68.06,0.54,Sesuai prediksi,3,20.56,59.5,9.07,18139,396.0,69.2
+Kota Tual,Maluku,2023,69.43,68.06,1.37,Sesuai prediksi,3,20.68,55.59,8.98,18961,389.0,68.93
+Kota Tual,Maluku,2024,70.21,68.58,1.63,Sesuai prediksi,3,20.01,60.98,8.68,19636,394.0,68.81
+Kota Tual,Maluku,2025,70.61,68.84,1.77,Sesuai prediksi,3,19.39,60.72,8.96,20227,398.86,70.05
+Maluku Barat Daya,Maluku,2017,60.16,58.08,2.08,Sesuai prediksi,3,30.18,66.34,9.72,13028,16.0,58.09
+Maluku Barat Daya,Maluku,2018,60.64,57.8,2.84,Sesuai prediksi,3,30.2,75.12,5.45,13794,16.0,57.5
+Maluku Barat Daya,Maluku,2019,61.55,59.52,2.03,Sesuai prediksi,3,29.43,76.5,3.75,14520,16.0,59.4
+Maluku Barat Daya,Maluku,2020,61.9,59.66,2.24,Sesuai prediksi,3,29.15,70.74,3.6,13002,18.0,59.36
+Maluku Barat Daya,Maluku,2021,62.37,59.24,3.13,Di atas prediksi,3,29.55,76.64,1.8,15299,18.0,59.22
+Maluku Barat Daya,Maluku,2022,63.07,61.41,1.66,Sesuai prediksi,3,27.64,72.39,2.47,16593,18.0,61.14
+Maluku Barat Daya,Maluku,2023,63.93,61.44,2.49,Sesuai prediksi,3,28.78,67.74,2.43,20358,19.0,61.16
+Maluku Barat Daya,Maluku,2024,64.86,63.8,1.06,Sesuai prediksi,3,27.95,70.65,2.36,21378,19.0,63.39
+Maluku Barat Daya,Maluku,2025,65.84,64.19,1.65,Sesuai prediksi,3,27.65,70.84,2.69,21781,19.46,63.66
+Maluku Tengah,Maluku,2017,70.09,66.82,3.27,Di atas prediksi,4,21.2,59.18,9.58,14078,32.0,66.92
+Maluku Tengah,Maluku,2018,70.6,66.82,3.78,Di atas prediksi,4,20.11,63.86,7.18,14871,32.0,66.89
+Maluku Tengah,Maluku,2019,71.25,67.21,4.04,Di atas prediksi,4,20.04,58.9,7.76,15647,47.0,67.53
+Maluku Tengah,Maluku,2020,71.25,67.21,4.04,Di atas prediksi,4,19.83,59.69,7.93,13826,53.0,67.52
+Maluku Tengah,Maluku,2021,71.32,67.21,4.11,Di atas prediksi,4,19.84,62.5,8.07,14144,53.0,67.53
+Maluku Tengah,Maluku,2022,71.81,67.21,4.6,Di atas prediksi,4,17.46,65.8,6.76,14717,52.0,67.48
+Maluku Tengah,Maluku,2023,72.45,67.21,5.24,Di atas prediksi,4,17.84,63.17,6.75,15189,53.0,67.53
+Maluku Tengah,Maluku,2024,73.21,67.21,6.0,Di atas prediksi,4,17.67,66.0,6.5,15820,53.0,67.48
+Maluku Tengah,Maluku,2025,73.98,67.21,6.77,Di atas prediksi,4,16.71,66.16,6.93,16395,53.99,67.48
+Maluku Tenggara,Maluku,2017,64.94,66.88,-1.94,Sesuai prediksi,5,23.87,62.22,4.5,17714,29.0,66.72
+Maluku Tenggara,Maluku,2018,65.53,66.6,-1.07,Sesuai prediksi,5,23.27,63.0,2.66,18695,29.0,66.46
+Maluku Tenggara,Maluku,2019,65.85,67.9,-2.05,Sesuai prediksi,5,22.75,61.41,2.58,19648,97.0,67.77
+Maluku Tenggara,Maluku,2020,66.2,67.54,-1.34,Sesuai prediksi,5,22.57,65.54,4.95,16247,118.0,67.44
+Maluku Tenggara,Maluku,2021,66.33,67.84,-1.51,Sesuai prediksi,5,22.73,64.94,5.06,16612,119.0,67.7
+Maluku Tenggara,Maluku,2022,66.88,68.23,-1.35,Sesuai prediksi,5,21.19,62.46,5.74,17373,122.0,68.25
+Maluku Tenggara,Maluku,2023,67.57,68.23,-0.66,Sesuai prediksi,5,21.79,61.52,5.73,18027,123.0,68.25
+Maluku Tenggara,Maluku,2024,68.24,67.96,0.28,Sesuai prediksi,5,21.22,67.64,5.68,18823,124.0,67.97
+Maluku Tenggara,Maluku,2025,68.82,68.03,0.79,Sesuai prediksi,5,21.16,67.04,6.01,19480,125.42,68.47
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2017,61.64,62.73,-1.09,Sesuai prediksi,1,27.47,65.37,5.12,13420,11.0,62.53
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2018,62.39,62.55,-0.16,Sesuai prediksi,1,28.08,69.74,4.66,14150,11.0,62.3
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2019,62.86,64.08,-1.22,Sesuai prediksi,1,27.25,68.72,4.85,15034,25.0,63.68
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2020,62.86,63.55,-0.69,Sesuai prediksi,1,27.11,72.38,4.51,13657,28.0,63.11
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2021,62.97,63.55,-0.58,Sesuai prediksi,1,27.27,68.96,4.4,14004,28.0,63.14
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2022,63.45,65.82,-2.37,Sesuai prediksi,1,23.88,66.56,4.33,14583,28.0,65.41
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2023,64.16,66.31,-2.15,Sesuai prediksi,1,24.47,61.93,4.31,15002,29.0,65.91
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2024,64.83,66.44,-1.61,Sesuai prediksi,1,23.66,62.92,4.24,15473,29.0,66.05
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,2025,65.61,67.39,-1.78,Sesuai prediksi,1,23.38,63.14,4.21,15963,29.87,66.84
+Seram Bagian Barat,Maluku,2017,64.34,64.83,-0.49,Sesuai prediksi,1,25.49,67.04,7.02,10311,42.0,65.4
+Seram Bagian Barat,Maluku,2018,65.14,64.47,0.67,Sesuai prediksi,1,25.62,69.06,7.29,10898,42.0,65.06
+Seram Bagian Barat,Maluku,2019,65.49,63.84,1.65,Sesuai prediksi,1,25.16,71.74,5.4,11413,34.0,63.42
+Seram Bagian Barat,Maluku,2020,65.62,63.92,1.7,Sesuai prediksi,1,25.11,71.64,5.47,9280,42.0,63.82
+Seram Bagian Barat,Maluku,2021,65.83,63.92,1.91,Sesuai prediksi,1,25.27,71.93,5.65,9432,43.0,63.82
+Seram Bagian Barat,Maluku,2022,66.67,65.56,1.11,Sesuai prediksi,1,22.25,67.89,5.45,9798,44.0,65.46
+Seram Bagian Barat,Maluku,2023,67.56,65.92,1.64,Sesuai prediksi,1,22.39,62.51,4.74,10089,44.0,65.81
+Seram Bagian Barat,Maluku,2024,68.39,65.56,2.83,Sesuai prediksi,1,22.31,69.53,4.52,10485,45.0,65.46
+Seram Bagian Barat,Maluku,2025,68.76,65.56,3.2,Di atas prediksi,1,21.85,70.54,4.92,10770,45.84,65.46
+Seram Bagian Timur,Maluku,2017,62.06,67.05,-4.99,Di bawah prediksi,2,23.59,62.41,9.3,17120,28.0,67.41
+Seram Bagian Timur,Maluku,2018,62.98,66.22,-3.24,Di bawah prediksi,2,23.62,63.6,4.99,16948,28.0,65.81
+Seram Bagian Timur,Maluku,2019,63.74,65.96,-2.22,Sesuai prediksi,2,23.13,69.38,3.36,17261,18.0,65.4
+Seram Bagian Timur,Maluku,2020,64.12,65.19,-1.07,Sesuai prediksi,2,23.04,67.84,3.61,14118,21.0,64.67
+Seram Bagian Timur,Maluku,2021,64.3,65.05,-0.75,Sesuai prediksi,2,23.25,68.86,3.88,14031,22.0,64.55
+Seram Bagian Timur,Maluku,2022,65.05,65.56,-0.51,Sesuai prediksi,2,20.73,65.08,3.38,14372,25.0,65.21
+Seram Bagian Timur,Maluku,2023,65.82,65.98,-0.16,Sesuai prediksi,2,21.08,56.58,3.31,14689,25.0,66.35
+Seram Bagian Timur,Maluku,2024,66.24,66.26,-0.02,Sesuai prediksi,2,21.03,60.84,3.24,14977,26.0,66.49
+Seram Bagian Timur,Maluku,2025,67.06,66.26,0.8,Sesuai prediksi,2,20.9,61.71,3.18,15255,26.11,66.49
+Halmahera Timur,Maluku Utara,2017,65.77,68.01,-2.24,Sesuai prediksi,1,15.25,71.36,4.36,22402,11.0,68.89
+Halmahera Timur,Maluku Utara,2018,66.2,67.72,-1.52,Sesuai prediksi,1,15.02,72.87,3.58,23539,14.0,68.54
+Halmahera Timur,Maluku Utara,2019,66.74,67.88,-1.14,Sesuai prediksi,1,15.39,66.48,4.48,24533,14.0,68.61
+Halmahera Timur,Maluku Utara,2020,66.75,67.88,-1.13,Sesuai prediksi,1,15.45,64.92,5.21,25145,15.0,68.61
+Halmahera Timur,Maluku Utara,2021,67.0,68.12,-1.12,Sesuai prediksi,1,15.04,63.48,6.78,26858,14.0,69.32
+Halmahera Timur,Maluku Utara,2022,67.93,67.88,0.05,Sesuai prediksi,1,13.14,66.88,5.2,26686,14.0,69.56
+Halmahera Timur,Maluku Utara,2023,68.82,68.01,0.81,Sesuai prediksi,1,12.47,69.82,4.66,33597,15.0,69.94
+Halmahera Timur,Maluku Utara,2024,69.58,68.01,1.57,Sesuai prediksi,1,11.91,68.83,4.76,34208,15.0,70.1
+Halmahera Timur,Maluku Utara,2025,70.34,68.01,2.33,Sesuai prediksi,1,10.54,69.32,4.85,51106,15.0,69.8
+Lombok Timur,Nusa Tenggara Barat,2017,64.37,65.52,-1.15,Sesuai prediksi,5,18.28,67.78,3.64,11261,742.0,65.17
+Lombok Timur,Nusa Tenggara Barat,2018,65.35,65.52,-0.17,Sesuai prediksi,5,16.55,66.25,3.02,11557,742.0,65.17
+Lombok Timur,Nusa Tenggara Barat,2019,66.23,65.52,0.71,Sesuai prediksi,5,16.15,67.82,3.35,11823,748.0,65.17
+Lombok Timur,Nusa Tenggara Barat,2020,66.3,66.02,0.28,Sesuai prediksi,5,15.24,69.24,4.17,10577,825.0,65.88
+Lombok Timur,Nusa Tenggara Barat,2021,66.66,66.02,0.64,Sesuai prediksi,5,15.38,70.46,2.79,10715,837.0,65.88
+Lombok Timur,Nusa Tenggara Barat,2022,67.59,66.08,1.51,Sesuai prediksi,5,15.14,70.16,1.51,10867,850.0,66.13
+Lombok Timur,Nusa Tenggara Barat,2023,68.41,66.02,2.39,Sesuai prediksi,5,15.63,71.1,2.47,11146,866.0,65.9
+Lombok Timur,Nusa Tenggara Barat,2024,69.23,66.08,3.15,Di atas prediksi,5,14.51,78.44,2.53,11424,880.0,66.9
+Lombok Timur,Nusa Tenggara Barat,2025,70.1,66.08,4.02,Di atas prediksi,5,13.53,78.39,2.82,11796,894.0,66.83
+Lombok Utara,Nusa Tenggara Barat,2017,63.04,61.04,2.0,Sesuai prediksi,1,32.06,70.9,1.74,15300,270.0,60.52
+Lombok Utara,Nusa Tenggara Barat,2018,63.83,62.6,1.23,Sesuai prediksi,1,28.83,74.43,3.22,15032,270.0,62.15
+Lombok Utara,Nusa Tenggara Barat,2019,64.49,62.6,1.89,Sesuai prediksi,1,29.03,73.38,1.99,15541,272.0,62.19
+Lombok Utara,Nusa Tenggara Barat,2020,64.42,63.02,1.4,Sesuai prediksi,1,26.99,73.63,3.01,13057,306.0,62.54
+Lombok Utara,Nusa Tenggara Barat,2021,64.77,63.02,1.75,Sesuai prediksi,1,27.04,73.44,1.75,13028,311.0,62.38
+Lombok Utara,Nusa Tenggara Barat,2022,65.7,63.03,2.67,Sesuai prediksi,1,25.93,76.54,0.38,13283,316.0,62.76
+Lombok Utara,Nusa Tenggara Barat,2023,66.62,63.67,2.95,Sesuai prediksi,1,25.8,76.21,1.4,13759,318.0,63.29
+Lombok Utara,Nusa Tenggara Barat,2024,67.24,65.3,1.94,Sesuai prediksi,1,23.96,80.88,1.85,14146,322.0,64.97
+Lombok Utara,Nusa Tenggara Barat,2025,68.23,65.82,2.41,Sesuai prediksi,1,20.74,76.79,2.68,14533,327.0,65.66
+Alor,Nusa Tenggara Timur,2017,59.61,64.95,-5.34,Di bawah prediksi,1,21.67,76.4,1.86,8960,71.0,65.17
+Alor,Nusa Tenggara Timur,2018,60.14,64.95,-4.81,Di bawah prediksi,1,21.63,67.82,4.09,9346,71.0,64.93
+Alor,Nusa Tenggara Timur,2019,61.03,64.95,-3.92,Di bawah prediksi,1,21.59,71.99,3.03,9756,70.0,64.93
+Alor,Nusa Tenggara Timur,2020,61.33,64.95,-3.62,Di bawah prediksi,1,21.09,75.5,3.11,9445,72.0,65.16
+Alor,Nusa Tenggara Timur,2021,61.37,64.95,-3.58,Di bawah prediksi,1,21.09,72.63,2.59,9535,73.0,64.94
+Alor,Nusa Tenggara Timur,2022,62.26,64.95,-2.69,Sesuai prediksi,1,20.25,75.24,2.27,9661,74.0,64.97
+Alor,Nusa Tenggara Timur,2023,62.99,63.81,-0.82,Sesuai prediksi,1,19.97,80.91,2.52,9898,76.0,63.93
+Alor,Nusa Tenggara Timur,2024,63.82,63.81,0.01,Sesuai prediksi,1,19.87,81.22,2.27,10168,77.0,63.93
+Alor,Nusa Tenggara Timur,2025,64.56,65.05,-0.49,Sesuai prediksi,1,18.29,78.85,2.08,10473,78.0,65.23
+Belu,Nusa Tenggara Timur,2017,61.44,65.9,-4.46,Di bawah prediksi,4,15.95,70.55,2.47,12438,166.0,65.93
+Belu,Nusa Tenggara Timur,2018,61.86,67.35,-5.49,Di bawah prediksi,4,15.7,67.48,5.26,12945,169.0,67.52
+Belu,Nusa Tenggara Timur,2019,62.54,67.35,-4.81,Di bawah prediksi,4,15.54,65.36,7.19,13426,176.0,67.6
+Belu,Nusa Tenggara Timur,2020,62.68,67.47,-4.79,Di bawah prediksi,4,15.37,70.25,7.42,13663,175.0,67.7
+Belu,Nusa Tenggara Timur,2021,62.77,67.47,-4.7,Di bawah prediksi,4,15.68,70.84,5.35,13628,177.0,67.62
+Belu,Nusa Tenggara Timur,2022,63.22,67.66,-4.44,Di bawah prediksi,4,14.84,66.66,6.0,13768,180.0,68.3
+Belu,Nusa Tenggara Timur,2023,63.83,67.66,-3.83,Di bawah prediksi,4,14.3,69.51,5.45,13996,205.0,68.48
+Belu,Nusa Tenggara Timur,2024,64.43,67.58,-3.15,Di bawah prediksi,4,13.86,79.9,5.41,14263,209.0,68.66
+Belu,Nusa Tenggara Timur,2025,65.19,67.66,-2.47,Sesuai prediksi,4,12.79,76.76,5.2,14710,213.0,68.71
+Ende,Nusa Tenggara Timur,2017,66.11,65.36,0.75,Sesuai prediksi,2,23.95,66.67,3.66,13771,133.0,65.03
+Ende,Nusa Tenggara Timur,2018,66.62,65.87,0.75,Sesuai prediksi,2,24.2,75.48,2.89,14403,133.0,65.68
+Ende,Nusa Tenggara Timur,2019,67.2,66.29,0.91,Sesuai prediksi,2,23.18,73.66,2.98,15085,132.0,66.05
+Ende,Nusa Tenggara Timur,2020,67.04,66.29,0.75,Sesuai prediksi,2,23.76,72.8,2.95,15067,131.0,66.05
+Ende,Nusa Tenggara Timur,2021,67.3,66.29,1.01,Sesuai prediksi,2,24.13,78.07,2.61,15250,132.0,66.25
+Ende,Nusa Tenggara Timur,2022,67.97,66.64,1.33,Sesuai prediksi,2,23.0,75.99,2.06,15562,132.0,66.56
+Ende,Nusa Tenggara Timur,2023,68.63,66.64,1.99,Sesuai prediksi,2,22.86,74.77,2.59,15959,134.0,66.39
+Ende,Nusa Tenggara Timur,2024,69.11,66.64,2.47,Sesuai prediksi,2,22.57,77.45,2.05,16436,135.0,66.56
+Ende,Nusa Tenggara Timur,2025,69.6,66.8,2.8,Sesuai prediksi,2,21.31,72.08,2.95,17185,136.0,66.53
+Kupang,Nusa Tenggara Timur,2017,62.79,65.35,-2.56,Sesuai prediksi,5,22.91,69.45,3.52,11729,71.0,65.02
+Kupang,Nusa Tenggara Timur,2018,63.55,65.35,-1.8,Sesuai prediksi,5,23.1,70.68,2.71,11859,71.0,65.02
+Kupang,Nusa Tenggara Timur,2019,64.43,65.78,-1.35,Sesuai prediksi,5,23.03,61.42,4.48,12541,73.0,65.47
+Kupang,Nusa Tenggara Timur,2020,64.32,66.36,-2.04,Sesuai prediksi,5,22.77,71.88,4.9,13058,66.0,66.29
+Kupang,Nusa Tenggara Timur,2021,64.41,65.5,-1.09,Sesuai prediksi,5,22.98,73.42,3.99,13223,67.0,65.27
+Kupang,Nusa Tenggara Timur,2022,65.04,65.5,-0.46,Sesuai prediksi,5,21.7,75.0,3.23,13458,69.0,65.2
+Kupang,Nusa Tenggara Timur,2023,65.82,65.5,0.32,Sesuai prediksi,5,21.78,76.82,3.22,13808,73.0,65.33
+Kupang,Nusa Tenggara Timur,2024,66.57,65.96,0.61,Sesuai prediksi,5,21.37,69.18,3.36,14174,74.0,65.61
+Kupang,Nusa Tenggara Timur,2025,67.34,66.29,1.05,Sesuai prediksi,5,20.32,70.8,3.53,14732,75.0,66.0
+Lembata,Nusa Tenggara Timur,2017,63.09,62.25,0.84,Sesuai prediksi,4,26.48,67.51,4.18,7676,108.74,61.45
+Lembata,Nusa Tenggara Timur,2018,63.96,63.95,0.01,Sesuai prediksi,4,26.45,70.81,5.4,7905,111.0,63.25
+Lembata,Nusa Tenggara Timur,2019,64.91,62.94,1.97,Sesuai prediksi,4,26.3,71.51,4.31,8152,113.0,62.17
+Lembata,Nusa Tenggara Timur,2020,64.74,63.8,0.94,Sesuai prediksi,4,26.14,69.92,4.88,8584,107.0,63.06
+Lembata,Nusa Tenggara Timur,2021,64.75,63.8,0.95,Sesuai prediksi,4,26.21,69.58,4.94,8585,109.0,63.06
+Lembata,Nusa Tenggara Timur,2022,65.47,63.8,1.67,Sesuai prediksi,4,25.18,72.63,4.74,8677,110.0,63.06
+Lembata,Nusa Tenggara Timur,2023,66.12,63.56,2.56,Sesuai prediksi,4,24.78,77.71,2.55,8785,111.0,62.97
+Lembata,Nusa Tenggara Timur,2024,66.62,63.61,3.01,Sesuai prediksi,4,24.22,83.82,2.18,8957,113.0,63.66
+Lembata,Nusa Tenggara Timur,2025,67.37,64.91,2.46,Sesuai prediksi,4,23.27,77.26,1.37,9230,115.0,64.76
+Malaka,Nusa Tenggara Timur,2017,58.9,65.61,-6.71,Di bawah prediksi,2,16.52,76.12,1.07,9056,163.0,65.57
+Malaka,Nusa Tenggara Timur,2018,59.66,65.61,-5.95,Di bawah prediksi,2,16.34,74.39,3.79,9377,163.0,65.47
+Malaka,Nusa Tenggara Timur,2019,60.34,65.61,-5.27,Di bawah prediksi,2,16.12,72.63,2.34,9681,165.0,65.36
+Malaka,Nusa Tenggara Timur,2020,60.21,65.61,-5.4,Di bawah prediksi,2,16.04,67.98,3.63,10245,158.0,65.39
+Malaka,Nusa Tenggara Timur,2021,60.42,65.61,-5.19,Di bawah prediksi,2,16.33,70.58,3.43,10301,160.0,65.39
+Malaka,Nusa Tenggara Timur,2022,61.34,66.05,-4.71,Di bawah prediksi,2,15.26,76.76,3.3,10542,162.0,66.43
+Malaka,Nusa Tenggara Timur,2023,62.06,66.61,-4.55,Di bawah prediksi,2,14.42,73.63,3.06,10797,172.0,66.8
+Malaka,Nusa Tenggara Timur,2024,62.73,66.13,-3.4,Di bawah prediksi,2,13.92,72.16,1.58,10986,174.0,65.73
+Malaka,Nusa Tenggara Timur,2025,63.44,63.15,0.29,Sesuai prediksi,2,13.52,84.95,2.07,11295,177.0,63.3
+Manggarai,Nusa Tenggara Timur,2017,62.24,65.18,-2.94,Sesuai prediksi,3,21.91,60.5,4.09,8307,159.0,65.8
+Manggarai,Nusa Tenggara Timur,2018,63.32,64.92,-1.6,Sesuai prediksi,3,20.83,75.38,3.21,8609,159.0,64.46
+Manggarai,Nusa Tenggara Timur,2019,64.15,64.92,-0.77,Sesuai prediksi,3,20.55,72.55,3.11,8905,177.0,64.44
+Manggarai,Nusa Tenggara Timur,2020,64.54,64.92,-0.38,Sesuai prediksi,3,20.34,76.76,4.09,9598,163.0,64.46
+Manggarai,Nusa Tenggara Timur,2021,65.01,64.92,0.09,Sesuai prediksi,3,20.48,77.78,3.7,9655,164.0,64.46
+Manggarai,Nusa Tenggara Timur,2022,65.83,64.92,0.91,Sesuai prediksi,3,19.84,78.7,3.5,9756,166.0,64.46
+Manggarai,Nusa Tenggara Timur,2023,66.42,65.29,1.13,Sesuai prediksi,3,19.69,79.16,2.44,9947,245.0,64.81
+Manggarai,Nusa Tenggara Timur,2024,67.28,64.61,2.67,Sesuai prediksi,3,19.01,83.16,1.17,10163,249.0,64.37
+Manggarai,Nusa Tenggara Timur,2025,68.03,65.47,2.56,Sesuai prediksi,3,18.1,78.62,1.56,10501,253.0,65.03
+Manggarai Barat,Nusa Tenggara Timur,2017,61.65,64.97,-3.32,Di bawah prediksi,4,18.86,77.87,1.3,7689,112.0,64.43
+Manggarai Barat,Nusa Tenggara Timur,2018,62.58,64.97,-2.39,Sesuai prediksi,4,18.14,69.38,1.19,7917,112.0,64.41
+Manggarai Barat,Nusa Tenggara Timur,2019,63.5,64.97,-1.47,Sesuai prediksi,4,18.01,74.67,2.42,8166,87.0,64.19
+Manggarai Barat,Nusa Tenggara Timur,2020,63.89,65.1,-1.21,Sesuai prediksi,4,17.71,78.62,3.72,8880,82.0,64.69
+Manggarai Barat,Nusa Tenggara Timur,2021,64.17,65.45,-1.28,Sesuai prediksi,4,17.92,73.31,4.94,8821,83.0,64.67
+Manggarai Barat,Nusa Tenggara Timur,2022,64.92,65.48,-0.56,Sesuai prediksi,4,17.15,80.53,4.91,9001,84.0,65.08
+Manggarai Barat,Nusa Tenggara Timur,2023,65.81,65.1,0.71,Sesuai prediksi,4,16.82,70.67,4.42,9249,87.0,64.67
+Manggarai Barat,Nusa Tenggara Timur,2024,66.65,65.1,1.55,Sesuai prediksi,4,16.74,76.68,3.47,9519,88.0,64.69
+Manggarai Barat,Nusa Tenggara Timur,2025,67.17,65.73,1.44,Sesuai prediksi,4,16.09,72.11,3.32,9880,90.0,65.59
+Manggarai Timur,Nusa Tenggara Timur,2017,58.51,59.33,-0.82,Sesuai prediksi,5,26.8,86.44,0.5,6553,107.0,59.7
+Manggarai Timur,Nusa Tenggara Timur,2018,59.49,63.26,-3.77,Di bawah prediksi,5,26.5,69.84,1.57,6804,107.0,63.11
+Manggarai Timur,Nusa Tenggara Timur,2019,60.47,60.23,0.24,Sesuai prediksi,5,26.49,81.4,0.95,7081,115.0,60.64
+Manggarai Timur,Nusa Tenggara Timur,2020,60.85,61.89,-1.04,Sesuai prediksi,5,26.52,81.88,2.1,7416,110.0,61.97
+Manggarai Timur,Nusa Tenggara Timur,2021,61.37,61.89,-0.52,Sesuai prediksi,5,26.5,82.08,1.96,7455,111.0,61.79
+Manggarai Timur,Nusa Tenggara Timur,2022,62.3,62.07,0.23,Sesuai prediksi,5,25.35,82.66,1.89,7586,112.0,61.81
+Manggarai Timur,Nusa Tenggara Timur,2023,63.24,62.91,0.33,Sesuai prediksi,5,25.06,80.31,1.63,7704,122.0,62.68
+Manggarai Timur,Nusa Tenggara Timur,2024,64.2,60.24,3.96,Di atas prediksi,5,24.9,83.32,0.51,7857,124.0,60.21
+Manggarai Timur,Nusa Tenggara Timur,2025,64.8,62.47,2.33,Sesuai prediksi,5,23.51,83.34,1.24,8082,126.0,62.07
+Rote Ndao,Nusa Tenggara Timur,2017,60.51,61.67,-1.16,Sesuai prediksi,2,28.81,77.0,2.52,10890,130.0,61.59
+Rote Ndao,Nusa Tenggara Timur,2018,61.51,63.13,-1.62,Sesuai prediksi,2,28.08,74.0,2.11,11049,130.0,62.84
+Rote Ndao,Nusa Tenggara Timur,2019,62.22,63.3,-1.08,Sesuai prediksi,2,27.95,70.81,2.73,11168,134.0,62.95
+Rote Ndao,Nusa Tenggara Timur,2020,62.39,63.41,-1.02,Sesuai prediksi,2,27.54,72.85,4.9,13496,112.0,63.18
+Rote Ndao,Nusa Tenggara Timur,2021,62.6,63.46,-0.86,Sesuai prediksi,2,28.08,73.91,3.67,13560,114.0,63.17
+Rote Ndao,Nusa Tenggara Timur,2022,63.21,63.73,-0.52,Sesuai prediksi,2,27.45,72.96,3.64,13809,116.0,63.47
+Rote Ndao,Nusa Tenggara Timur,2023,64.0,64.43,-0.43,Sesuai prediksi,2,27.05,68.97,3.65,13964,117.0,64.12
+Rote Ndao,Nusa Tenggara Timur,2024,64.59,65.71,-1.12,Sesuai prediksi,2,25.78,71.78,2.42,14181,119.0,65.38
+Rote Ndao,Nusa Tenggara Timur,2025,65.2,66.46,-1.26,Sesuai prediksi,2,24.37,70.62,2.18,15075,121.0,66.15
+Sabu Raijua,Nusa Tenggara Timur,2017,55.22,59.09,-3.87,Di bawah prediksi,3,31.07,74.66,2.75,7784,205.0,58.67
+Sabu Raijua,Nusa Tenggara Timur,2018,55.79,58.7,-2.91,Sesuai prediksi,3,30.83,77.37,2.12,7921,205.0,58.44
+Sabu Raijua,Nusa Tenggara Timur,2019,56.66,59.09,-2.43,Sesuai prediksi,3,30.52,70.94,2.89,8083,211.0,58.47
+Sabu Raijua,Nusa Tenggara Timur,2020,57.02,59.09,-2.07,Sesuai prediksi,3,30.18,74.9,3.08,8698,194.0,58.57
+Sabu Raijua,Nusa Tenggara Timur,2021,57.03,58.09,-1.06,Sesuai prediksi,3,30.13,68.65,1.25,8689,197.0,57.71
+Sabu Raijua,Nusa Tenggara Timur,2022,57.9,61.43,-3.53,Di bawah prediksi,3,28.73,76.57,3.29,8815,202.0,61.01
+Sabu Raijua,Nusa Tenggara Timur,2023,58.89,62.0,-3.11,Di bawah prediksi,3,28.37,76.03,4.06,8873,202.0,61.51
+Sabu Raijua,Nusa Tenggara Timur,2024,59.58,63.18,-3.6,Di bawah prediksi,3,28.13,77.26,3.99,9149,206.0,62.68
+Sabu Raijua,Nusa Tenggara Timur,2025,60.26,63.18,-2.92,Sesuai prediksi,3,27.18,75.05,3.12,9464,209.0,62.68
+Sumba Barat,Nusa Tenggara Timur,2017,62.3,61.61,0.69,Sesuai prediksi,1,29.28,58.77,3.83,10374,59.0,62.63
+Sumba Barat,Nusa Tenggara Timur,2018,62.91,61.61,1.3,Sesuai prediksi,1,28.51,65.46,4.06,10721,59.0,61.54
+Sumba Barat,Nusa Tenggara Timur,2019,63.56,62.89,0.67,Sesuai prediksi,1,28.29,71.65,3.15,11101,176.0,61.97
+Sumba Barat,Nusa Tenggara Timur,2020,63.53,62.89,0.64,Sesuai prediksi,1,28.17,70.72,3.96,9967,197.0,61.97
+Sumba Barat,Nusa Tenggara Timur,2021,63.83,61.25,2.58,Sesuai prediksi,1,28.39,73.84,1.74,9863,201.0,60.16
+Sumba Barat,Nusa Tenggara Timur,2022,64.43,62.89,1.54,Sesuai prediksi,1,27.47,73.66,2.98,10008,207.0,61.97
+Sumba Barat,Nusa Tenggara Timur,2023,65.22,62.89,2.33,Sesuai prediksi,1,27.17,78.69,3.52,10202,201.0,62.23
+Sumba Barat,Nusa Tenggara Timur,2024,66.06,62.89,3.17,Di atas prediksi,1,26.52,77.08,3.21,10406,205.0,62.23
+Sumba Barat,Nusa Tenggara Timur,2025,66.82,63.23,3.59,Di atas prediksi,1,26.47,76.84,3.27,10769,208.0,62.54
+Sumba Barat Daya,Nusa Tenggara Timur,2017,61.46,59.91,1.55,Sesuai prediksi,2,30.13,72.27,1.61,6294,229.0,59.05
+Sumba Barat Daya,Nusa Tenggara Timur,2018,61.89,57.95,3.94,Di atas prediksi,2,28.88,80.6,1.01,6484,229.0,57.48
+Sumba Barat Daya,Nusa Tenggara Timur,2019,62.6,61.52,1.08,Sesuai prediksi,2,28.06,79.82,1.25,6676,239.0,61.06
+Sumba Barat Daya,Nusa Tenggara Timur,2020,62.28,61.8,0.48,Sesuai prediksi,2,28.0,77.71,2.36,7609,210.0,61.26
+Sumba Barat Daya,Nusa Tenggara Timur,2021,62.29,61.3,0.99,Sesuai prediksi,2,28.18,83.18,2.04,7626,212.0,60.83
+Sumba Barat Daya,Nusa Tenggara Timur,2022,63.15,62.02,1.13,Sesuai prediksi,2,27.16,77.04,1.97,7754,213.0,61.43
+Sumba Barat Daya,Nusa Tenggara Timur,2023,63.74,61.52,2.22,Sesuai prediksi,2,27.48,80.02,2.08,7828,233.0,61.06
+Sumba Barat Daya,Nusa Tenggara Timur,2024,64.27,61.8,2.47,Sesuai prediksi,2,27.2,78.53,2.64,7967,238.0,61.26
+Sumba Barat Daya,Nusa Tenggara Timur,2025,64.82,62.87,1.95,Sesuai prediksi,2,25.66,82.27,1.7,8164,243.0,62.36
+Sumba Tengah,Nusa Tenggara Timur,2017,59.39,58.22,1.17,Sesuai prediksi,3,36.01,56.41,4.26,9629,38.0,58.33
+Sumba Tengah,Nusa Tenggara Timur,2018,60.07,59.45,0.62,Sesuai prediksi,3,34.85,64.75,3.57,9940,38.0,59.24
+Sumba Tengah,Nusa Tenggara Timur,2019,61.01,59.45,1.56,Sesuai prediksi,3,34.62,69.38,3.43,10325,40.0,59.24
+Sumba Tengah,Nusa Tenggara Timur,2020,61.53,59.09,2.44,Sesuai prediksi,3,34.49,69.37,4.02,8923,47.0,58.89
+Sumba Tengah,Nusa Tenggara Timur,2021,61.8,58.7,3.1,Sesuai prediksi,3,34.27,68.65,1.45,8831,48.0,58.62
+Sumba Tengah,Nusa Tenggara Timur,2022,62.71,53.77,8.94,Di atas prediksi,3,32.51,76.37,1.21,8871,50.0,53.63
+Sumba Tengah,Nusa Tenggara Timur,2023,63.48,58.7,4.78,Di atas prediksi,3,31.78,78.58,1.89,8936,51.0,58.57
+Sumba Tengah,Nusa Tenggara Timur,2024,64.31,58.7,5.61,Di atas prediksi,3,30.84,76.46,1.89,9096,52.0,58.62
+Sumba Tengah,Nusa Tenggara Timur,2025,65.14,61.05,4.09,Di atas prediksi,3,29.23,77.16,2.49,9362,53.0,60.88
+Sumba Timur,Nusa Tenggara Timur,2017,64.19,60.17,4.02,Di atas prediksi,4,31.03,72.05,2.9,14318,37.0,60.3
+Sumba Timur,Nusa Tenggara Timur,2018,64.65,60.17,4.48,Di atas prediksi,4,30.13,77.6,1.42,14892,37.0,60.58
+Sumba Timur,Nusa Tenggara Timur,2019,65.34,60.17,5.17,Di atas prediksi,4,30.02,69.47,2.13,15456,37.0,60.59
+Sumba Timur,Nusa Tenggara Timur,2020,65.52,61.14,4.38,Di atas prediksi,4,29.65,71.81,3.49,16236,35.0,61.0
+Sumba Timur,Nusa Tenggara Timur,2021,65.74,61.14,4.6,Di atas prediksi,4,29.68,72.08,3.35,16187,35.0,61.0
+Sumba Timur,Nusa Tenggara Timur,2022,66.17,63.28,2.89,Sesuai prediksi,4,28.22,79.46,2.61,16355,36.0,63.32
+Sumba Timur,Nusa Tenggara Timur,2023,67.05,61.82,5.23,Di atas prediksi,4,28.08,81.28,2.21,16607,37.0,62.1
+Sumba Timur,Nusa Tenggara Timur,2024,67.68,63.55,4.13,Di atas prediksi,4,27.04,74.26,3.46,16964,37.0,63.46
+Sumba Timur,Nusa Tenggara Timur,2025,68.39,64.35,4.04,Di atas prediksi,4,25.64,75.38,3.36,17519,38.0,64.26
+Timor Tengah Selatan,Nusa Tenggara Timur,2017,61.08,61.57,-0.49,Sesuai prediksi,5,29.44,65.32,1.7,9310,118.0,61.52
+Timor Tengah Selatan,Nusa Tenggara Timur,2018,61.58,60.58,1.0,Sesuai prediksi,5,28.06,77.44,1.01,9746,118.0,60.58
+Timor Tengah Selatan,Nusa Tenggara Timur,2019,62.23,63.33,-1.1,Sesuai prediksi,5,27.87,71.55,1.94,10179,119.0,63.4
+Timor Tengah Selatan,Nusa Tenggara Timur,2020,62.15,63.45,-1.3,Sesuai prediksi,5,27.49,74.72,2.63,10478,115.0,63.18
+Timor Tengah Selatan,Nusa Tenggara Timur,2021,62.16,63.86,-1.7,Sesuai prediksi,5,26.64,78.76,2.57,10597,116.0,63.63
+Timor Tengah Selatan,Nusa Tenggara Timur,2022,62.73,62.21,0.52,Sesuai prediksi,5,25.45,82.56,1.99,10767,116.0,62.48
+Timor Tengah Selatan,Nusa Tenggara Timur,2023,63.58,62.21,1.37,Sesuai prediksi,5,25.18,83.24,2.64,10952,121.0,62.19
+Timor Tengah Selatan,Nusa Tenggara Timur,2024,64.36,61.9,2.46,Sesuai prediksi,5,24.68,87.5,2.63,11161,122.0,61.87
+Timor Tengah Selatan,Nusa Tenggara Timur,2025,65.02,63.63,1.39,Sesuai prediksi,5,24.5,81.24,3.57,11468,124.0,63.47
+Timor Tengah Utara,Nusa Tenggara Timur,2017,62.03,64.52,-2.49,Sesuai prediksi,1,23.52,74.28,0.6,10521,94.0,64.58
+Timor Tengah Utara,Nusa Tenggara Timur,2018,62.65,64.52,-1.87,Sesuai prediksi,1,22.31,76.96,0.85,10947,94.0,64.78
+Timor Tengah Utara,Nusa Tenggara Timur,2019,63.34,64.55,-1.21,Sesuai prediksi,1,22.45,72.22,1.22,11406,95.0,64.54
+Timor Tengah Utara,Nusa Tenggara Timur,2020,63.53,65.56,-2.03,Sesuai prediksi,1,22.28,78.26,4.26,11128,97.0,65.72
+Timor Tengah Utara,Nusa Tenggara Timur,2021,63.69,64.95,-1.26,Sesuai prediksi,1,22.62,78.54,3.88,11209,98.0,65.2
+Timor Tengah Utara,Nusa Tenggara Timur,2022,64.26,64.92,-0.66,Sesuai prediksi,1,21.5,80.05,3.51,11349,100.0,65.14
+Timor Tengah Utara,Nusa Tenggara Timur,2023,65.16,64.95,0.21,Sesuai prediksi,1,21.85,75.77,1.96,11515,103.0,65.13
+Timor Tengah Utara,Nusa Tenggara Timur,2024,65.83,64.73,1.1,Sesuai prediksi,1,20.89,82.66,1.82,11709,105.0,64.99
+Timor Tengah Utara,Nusa Tenggara Timur,2025,66.43,64.95,1.48,Sesuai prediksi,1,20.17,75.1,2.54,12051,107.0,64.97
+Asmat,Papua,2017,48.49,60.65,-12.16,Di bawah prediksi,2,27.16,83.54,0.49,14790,3.9,58.52
+Asmat,Papua,2018,49.37,60.04,-10.67,Di bawah prediksi,2,27.41,82.49,0.49,15197,3.9,58.04
+Asmat,Papua,2019,50.37,61.0,-10.63,Di bawah prediksi,2,26.6,83.81,1.06,15662,4.0,57.84
+Asmat,Papua,2020,50.55,63.04,-12.49,Di bawah prediksi,2,25.49,81.59,2.38,13954,7.0,61.09
+Asmat,Papua,2021,51.29,63.04,-11.75,Di bawah prediksi,2,24.83,81.06,2.38,14013,7.1,61.25
+Asmat,Papua,2022,52.22,62.14,-9.92,Di bawah prediksi,2,24.87,80.28,2.38,14364,4.54,59.54
+Asmat,Papua,2023,53.19,64.17,-10.98,Di bawah prediksi,2,24.36,59.29,2.38,14751,4.65,62.2
+Asmat,Papua,2024,53.92,63.29,-9.37,Di bawah prediksi,2,24.5,77.46,2.38,15278,4.74,60.8
+Asmat,Papua,2025,54.84,61.95,-7.11,Di bawah prediksi,2,28.47,71.93,2.38,15602,4.83,59.01
+Biak Numfor,Papua,2017,71.56,66.49,5.07,Di atas prediksi,2,25.44,60.97,6.51,23089,11.0,66.77
+Biak Numfor,Papua,2018,71.96,66.49,5.47,Di atas prediksi,2,25.72,60.33,6.51,22607,11.0,66.86
+Biak Numfor,Papua,2019,72.57,66.49,6.08,Di atas prediksi,2,25.5,59.4,10.07,23480,12.0,66.86
+Biak Numfor,Papua,2020,72.19,68.37,3.82,Di atas prediksi,2,24.57,63.58,10.38,24185,60.0,68.61
+Biak Numfor,Papua,2021,72.33,67.93,4.4,Di atas prediksi,2,24.45,69.23,9.49,24552,52.0,68.42
+Biak Numfor,Papua,2022,72.85,67.93,4.92,Di atas prediksi,2,24.48,72.07,7.4,25426,60.15,68.42
+Biak Numfor,Papua,2023,73.46,68.71,4.75,Di atas prediksi,2,23.53,65.74,5.72,25918,62.0,68.74
+Biak Numfor,Papua,2024,73.98,68.1,5.88,Di atas prediksi,2,23.46,73.89,6.23,26194,63.0,68.53
+Biak Numfor,Papua,2025,74.51,67.76,6.75,Di atas prediksi,2,25.73,73.68,6.74,26731,63.0,68.3
+Boven Digoel,Papua,2017,60.14,64.37,-4.23,Di bawah prediksi,5,19.9,70.2,3.49,47120,2.8,64.96
+Boven Digoel,Papua,2018,60.83,64.33,-3.5,Di bawah prediksi,5,20.35,79.79,3.49,47576,2.8,65.12
+Boven Digoel,Papua,2019,61.51,64.37,-2.86,Sesuai prediksi,5,19.66,73.14,3.08,48339,2.8,64.83
+Boven Digoel,Papua,2020,61.53,66.71,-5.18,Di bawah prediksi,5,19.41,74.1,8.09,49691,3.6,67.89
+Boven Digoel,Papua,2021,61.62,66.71,-5.09,Di bawah prediksi,5,19.9,78.56,6.73,49079,3.7,68.04
+Boven Digoel,Papua,2022,62.52,65.91,-3.39,Di bawah prediksi,5,20.04,74.41,6.73,48690,2.77,67.17
+Boven Digoel,Papua,2023,63.46,66.71,-3.25,Di bawah prediksi,5,19.8,70.82,6.73,49230,2.88,67.88
+Boven Digoel,Papua,2024,64.26,66.71,-2.45,Sesuai prediksi,5,19.24,71.24,6.73,50133,2.93,67.89
+Boven Digoel,Papua,2025,64.72,66.6,-1.88,Sesuai prediksi,5,21.96,64.98,6.73,50115,2.98,67.85
+Deiyai,Papua,2017,49.07,48.23,0.84,Sesuai prediksi,4,43.63,86.98,0.59,10765,31.2,46.86
+Deiyai,Papua,2018,49.55,48.23,1.32,Sesuai prediksi,4,43.49,89.81,0.59,11095,31.2,46.86
+Deiyai,Papua,2019,50.11,45.29,4.82,Di atas prediksi,4,43.65,92.61,0.22,11259,31.5,42.61
+Deiyai,Papua,2020,49.46,51.07,-1.61,Sesuai prediksi,4,41.76,89.65,0.22,8414,184.4,50.16
+Deiyai,Papua,2021,49.96,51.07,-1.11,Sesuai prediksi,4,40.59,84.83,0.22,8376,187.0,50.16
+Deiyai,Papua,2022,50.42,53.11,-2.69,Sesuai prediksi,4,40.31,71.28,0.22,8496,35.89,52.17
+Deiyai,Papua,2023,51.18,53.11,-1.93,Sesuai prediksi,4,38.66,67.78,0.22,8508,36.75,52.17
+Deiyai,Papua,2024,52.07,53.11,-1.04,Sesuai prediksi,4,39.01,56.86,0.22,8592,37.41,52.17
+Deiyai,Papua,2025,52.59,53.11,-0.52,Sesuai prediksi,4,37.29,70.13,0.22,8664,38.07,53.25
+Dogiyai,Papua,2017,54.04,52.69,1.35,Sesuai prediksi,5,30.36,89.66,1.26,8399,21.4,52.51
+Dogiyai,Papua,2018,54.44,53.93,0.51,Sesuai prediksi,5,30.48,86.22,1.26,8736,21.4,54.01
+Dogiyai,Papua,2019,55.41,51.99,3.42,Di atas prediksi,5,31.12,90.14,0.11,9231,21.7,52.5
+Dogiyai,Papua,2020,54.84,58.17,-3.33,Di bawah prediksi,5,28.62,82.5,2.89,7736,27.4,57.59
+Dogiyai,Papua,2021,55.0,61.78,-6.78,Di bawah prediksi,5,28.81,78.28,5.68,7656,27.8,61.38
+Dogiyai,Papua,2022,55.72,59.09,-3.37,Di bawah prediksi,5,29.48,81.84,5.68,7556,31.59,59.42
+Dogiyai,Papua,2023,56.7,57.77,-1.07,Sesuai prediksi,5,29.2,89.4,5.68,7602,32.43,58.04
+Dogiyai,Papua,2024,57.68,52.24,5.44,Di atas prediksi,5,30.03,93.16,5.68,7605,33.0,51.71
+Dogiyai,Papua,2025,57.92,57.77,0.15,Sesuai prediksi,5,29.34,87.48,5.68,7639,33.55,58.04
+Intan Jaya,Papua,2017,45.68,52.01,-6.33,Di bawah prediksi,4,42.23,76.74,0.51,14917,5.2,50.1
+Intan Jaya,Papua,2018,46.55,52.01,-5.46,Di bawah prediksi,4,42.71,74.04,0.51,15198,5.2,50.1
+Intan Jaya,Papua,2019,47.51,49.83,-2.32,Sesuai prediksi,4,42.92,82.36,0.0,15351,5.3,47.75
+Intan Jaya,Papua,2020,47.79,56.72,-8.93,Di bawah prediksi,4,40.71,69.07,1.22,5640,34.4,55.7
+Intan Jaya,Papua,2021,48.34,56.72,-8.38,Di bawah prediksi,4,41.66,75.74,1.22,5601,34.9,55.7
+Intan Jaya,Papua,2022,49.25,55.56,-6.31,Di bawah prediksi,4,42.03,79.94,1.22,5636,26.1,54.72
+Intan Jaya,Papua,2023,50.19,53.91,-3.72,Di bawah prediksi,4,40.01,82.44,1.22,5695,26.56,52.99
+Intan Jaya,Papua,2024,50.71,55.77,-5.06,Di bawah prediksi,4,41.42,67.02,1.22,5709,26.97,54.88
+Intan Jaya,Papua,2025,51.35,55.77,-4.42,Di bawah prediksi,4,39.21,56.83,1.22,5757,27.35,54.88
+Jayawijaya,Papua,2017,55.99,50.61,5.38,Di atas prediksi,2,38.62,89.79,0.65,19979,92.2,50.58
+Jayawijaya,Papua,2018,56.82,50.78,6.04,Di atas prediksi,2,38.66,89.55,0.65,21033,92.2,50.75
+Jayawijaya,Papua,2019,57.79,54.77,3.02,Sesuai prediksi,2,38.33,85.48,2.39,22618,93.5,54.39
+Jayawijaya,Papua,2020,58.03,57.82,0.21,Sesuai prediksi,2,37.22,81.8,2.51,17125,38.3,57.76
+Jayawijaya,Papua,2021,58.67,53.94,4.73,Di atas prediksi,2,37.09,83.91,1.62,17094,38.9,53.93
+Jayawijaya,Papua,2022,59.6,54.58,5.02,Di atas prediksi,2,35.8,87.28,1.62,17865,105.71,54.78
+Jayawijaya,Papua,2023,60.5,55.44,5.06,Di atas prediksi,2,34.71,85.72,1.62,18664,105.81,55.53
+Jayawijaya,Papua,2024,61.03,56.03,5.0,Di atas prediksi,2,32.28,85.9,1.62,19549,106.92,56.59
+Jayawijaya,Papua,2025,61.67,63.79,-2.12,Sesuai prediksi,2,29.08,77.42,1.62,20114,107.98,64.15
+Keerom,Papua,2017,64.99,66.21,-1.22,Sesuai prediksi,5,16.69,74.57,5.46,33423,6.0,65.41
+Keerom,Papua,2018,65.75,66.21,-0.46,Sesuai prediksi,5,16.9,72.32,5.46,34336,6.0,65.41
+Keerom,Papua,2019,66.59,64.73,1.86,Sesuai prediksi,5,16.83,75.1,2.71,35016,6.0,63.68
+Keerom,Papua,2020,66.4,64.73,1.67,Sesuai prediksi,5,16.32,75.72,2.56,32401,7.0,63.68
+Keerom,Papua,2021,66.49,64.73,1.76,Sesuai prediksi,5,16.0,75.78,1.41,32936,3.0,64.04
+Keerom,Papua,2022,67.24,64.95,2.29,Sesuai prediksi,5,15.77,73.44,2.49,33529,6.59,64.14
+Keerom,Papua,2023,68.08,64.95,3.13,Di atas prediksi,5,15.68,76.0,1.5,33826,7.0,64.8
+Keerom,Papua,2024,68.68,64.89,3.79,Di atas prediksi,5,15.84,78.18,2.68,34540,7.0,64.22
+Keerom,Papua,2025,69.24,64.73,4.51,Di atas prediksi,5,17.76,78.2,3.87,35351,7.0,63.87
+Kepulauan Yapen,Papua,2017,66.07,64.67,1.4,Sesuai prediksi,3,26.82,67.68,4.66,27859,19.0,64.49
+Kepulauan Yapen,Papua,2018,67.0,64.67,2.33,Sesuai prediksi,3,27.17,63.0,4.66,28413,20.0,64.38
+Kepulauan Yapen,Papua,2019,67.76,64.67,3.09,Sesuai prediksi,3,27.13,69.79,5.36,30062,21.0,64.37
+Kepulauan Yapen,Papua,2020,67.66,66.75,0.91,Sesuai prediksi,3,26.3,60.12,5.3,24640,46.0,68.0
+Kepulauan Yapen,Papua,2021,67.72,65.53,2.19,Sesuai prediksi,3,26.09,63.76,2.47,25226,56.0,65.57
+Kepulauan Yapen,Papua,2022,68.41,65.91,2.5,Sesuai prediksi,3,26.15,68.13,3.6,26081,47.8,66.03
+Kepulauan Yapen,Papua,2023,69.11,66.26,2.85,Sesuai prediksi,3,25.89,60.45,4.01,26376,48.0,67.49
+Kepulauan Yapen,Papua,2024,69.65,67.47,2.18,Sesuai prediksi,3,25.69,67.0,5.3,26974,49.0,67.58
+Kepulauan Yapen,Papua,2025,70.46,67.03,3.43,Di atas prediksi,3,28.0,55.52,6.58,27639,49.0,68.2
+Lanny Jaya,Papua,2017,46.49,55.52,-9.03,Di bawah prediksi,3,39.6,93.6,0.69,22076,51.7,55.45
+Lanny Jaya,Papua,2018,47.34,55.79,-8.45,Di bawah prediksi,3,40.06,92.8,0.69,22943,51.7,55.69
+Lanny Jaya,Papua,2019,48.0,55.52,-7.52,Di bawah prediksi,3,39.52,92.87,0.12,22602,52.0,55.52
+Lanny Jaya,Papua,2020,47.86,58.62,-10.76,Di bawah prediksi,3,38.13,37.16,0.12,23347,156.7,59.22
+Lanny Jaya,Papua,2021,48.68,52.04,-3.36,Di bawah prediksi,3,38.73,95.82,0.12,6031,158.6,50.5
+Lanny Jaya,Papua,2022,49.62,52.04,-2.42,Sesuai prediksi,3,37.76,97.52,0.12,6172,86.1,50.71
+Lanny Jaya,Papua,2023,50.56,52.04,-1.48,Sesuai prediksi,3,36.94,95.46,0.12,6352,87.86,50.71
+Lanny Jaya,Papua,2024,51.59,53.34,-1.75,Sesuai prediksi,3,34.12,93.55,0.12,6646,89.13,54.53
+Lanny Jaya,Papua,2025,52.22,53.16,-0.94,Sesuai prediksi,3,31.59,96.31,0.12,6865,67.13,54.03
+Mamberamo Raya,Papua,2017,50.25,63.0,-12.75,Di bawah prediksi,2,29.88,73.12,2.53,40509,1.0,61.59
+Mamberamo Raya,Papua,2018,51.24,62.42,-11.18,Di bawah prediksi,2,30.1,68.18,2.53,41100,1.0,60.9
+Mamberamo Raya,Papua,2019,52.2,63.16,-10.96,Di bawah prediksi,2,29.13,70.82,2.59,43104,1.0,61.69
+Mamberamo Raya,Papua,2020,51.78,63.92,-12.14,Di bawah prediksi,2,28.38,61.32,2.55,27967,1.0,62.39
+Mamberamo Raya,Papua,2021,52.18,62.57,-10.39,Di bawah prediksi,2,28.78,66.38,1.91,27770,2.0,60.51
+Mamberamo Raya,Papua,2022,53.1,61.18,-8.08,Di bawah prediksi,2,30.73,62.74,2.32,28044,1.34,59.75
+Mamberamo Raya,Papua,2023,54.08,62.95,-8.87,Di bawah prediksi,2,29.63,42.13,2.32,28296,1.0,58.1
+Mamberamo Raya,Papua,2024,55.0,61.18,-6.18,Di bawah prediksi,2,30.29,54.18,2.32,28873,1.0,59.89
+Mamberamo Raya,Papua,2025,56.0,59.47,-3.47,Di bawah prediksi,2,35.09,47.34,2.32,29347,1.0,54.15
+Mamberamo Tengah,Papua,2017,45.5,44.89,0.61,Sesuai prediksi,2,36.38,95.44,0.31,7019,14.2,46.07
+Mamberamo Tengah,Papua,2018,46.41,44.89,1.52,Sesuai prediksi,2,37.02,95.71,0.31,7339,14.2,46.07
+Mamberamo Tengah,Papua,2019,47.23,44.89,2.34,Sesuai prediksi,2,36.93,93.32,0.71,7106,14.2,44.9
+Mamberamo Tengah,Papua,2020,47.57,51.52,-3.95,Di bawah prediksi,2,36.41,81.25,0.8,7135,22.6,50.58
+Mamberamo Tengah,Papua,2021,48.32,44.85,3.47,Di atas prediksi,2,36.76,95.86,0.9,14980,22.8,43.23
+Mamberamo Tengah,Papua,2022,49.25,44.14,5.11,Di atas prediksi,2,35.92,96.89,0.9,14893,12.61,36.31
+Mamberamo Tengah,Papua,2023,50.22,45.09,5.13,Di atas prediksi,2,35.42,92.43,0.9,15378,12.89,43.02
+Mamberamo Tengah,Papua,2024,50.72,49.53,1.19,Sesuai prediksi,2,35.27,90.46,0.9,15775,13.08,48.66
+Mamberamo Tengah,Papua,2025,51.58,50.57,1.01,Sesuai prediksi,2,32.2,86.34,0.9,16147,13.26,50.19
+Mappi,Papua,2017,57.1,62.91,-5.81,Di bawah prediksi,2,25.75,82.6,2.88,17638,4.3,60.07
+Mappi,Papua,2018,57.72,63.63,-5.91,Di bawah prediksi,2,25.64,77.43,2.88,17828,4.3,60.95
+Mappi,Papua,2019,58.3,63.8,-5.5,Di bawah prediksi,2,25.5,68.55,4.51,19125,4.5,60.88
+Mappi,Papua,2020,58.15,65.92,-7.77,Di bawah prediksi,2,25.04,63.84,5.77,17252,12.9,65.74
+Mappi,Papua,2021,58.7,65.49,-6.79,Di bawah prediksi,2,26.05,61.14,4.11,17317,13.1,65.51
+Mappi,Papua,2022,59.61,64.18,-4.57,Di bawah prediksi,2,26.04,60.1,4.11,17897,4.58,62.06
+Mappi,Papua,2023,60.57,64.18,-3.61,Di bawah prediksi,2,25.72,54.85,4.11,18083,4.67,62.1
+Mappi,Papua,2024,61.51,64.18,-2.67,Sesuai prediksi,2,25.7,60.55,4.11,18329,4.74,62.1
+Mappi,Papua,2025,62.45,62.04,0.41,Sesuai prediksi,2,28.46,65.05,4.11,18536,4.82,59.19
+Nabire,Papua,2017,67.11,67.01,0.1,Sesuai prediksi,1,25.38,68.09,7.22,46429,32.5,67.81
+Nabire,Papua,2018,67.7,67.01,0.69,Sesuai prediksi,1,25.17,71.07,7.22,48167,32.5,67.33
+Nabire,Papua,2019,68.53,67.24,1.29,Sesuai prediksi,1,24.81,68.71,6.31,51306,33.0,67.31
+Nabire,Papua,2020,68.83,67.13,1.7,Sesuai prediksi,1,24.15,73.03,6.65,43653,15.2,68.03
+Nabire,Papua,2021,69.15,66.05,3.1,Sesuai prediksi,1,23.83,72.0,3.05,44933,15.4,66.37
+Nabire,Papua,2022,69.91,66.05,3.86,Di atas prediksi,1,23.9,69.33,3.05,45556,14.66,66.38
+Nabire,Papua,2023,70.84,66.36,4.48,Di atas prediksi,1,23.35,68.33,3.05,46678,14.72,66.65
+Nabire,Papua,2024,71.77,66.05,5.72,Di atas prediksi,1,24.0,70.65,3.05,48028,14.85,66.37
+Nabire,Papua,2025,72.38,66.98,5.4,Di atas prediksi,1,22.65,67.68,3.05,49137,14.99,66.9
+Nduga,Papua,2017,27.87,47.61,-19.74,Di bawah prediksi,3,37.29,91.89,0.59,11691,16.7,46.56
+Nduga,Papua,2018,29.42,47.61,-18.19,Di bawah prediksi,3,38.13,92.4,0.59,12310,16.7,46.56
+Nduga,Papua,2019,30.75,47.61,-16.86,Di bawah prediksi,3,38.24,95.29,1.03,12185,16.9,46.69
+Nduga,Papua,2020,31.55,51.86,-20.31,Di bawah prediksi,3,36.72,96.34,1.03,7814,83.6,50.62
+Nduga,Papua,2021,32.84,51.86,-19.02,Di bawah prediksi,3,37.18,98.02,1.03,7528,84.6,50.6
+Nduga,Papua,2022,34.1,47.53,-13.43,Di bawah prediksi,3,36.73,92.57,1.03,7636,18.62,45.87
+Nduga,Papua,2023,35.19,47.53,-12.34,Di bawah prediksi,3,37.09,96.72,1.03,7813,18.98,45.87
+Nduga,Papua,2024,36.3,47.53,-11.23,Di bawah prediksi,3,36.28,94.83,1.03,7974,19.25,45.87
+Nduga,Papua,2025,37.77,49.32,-11.55,Di bawah prediksi,3,32.89,93.09,1.03,8032,19.52,49.22
+Paniai,Papua,2017,54.91,48.4,6.51,Di atas prediksi,3,37.4,90.39,0.6,16052,8.4,46.31
+Paniai,Papua,2018,55.83,48.4,7.43,Di atas prediksi,3,37.35,88.82,0.6,16777,8.4,46.31
+Paniai,Papua,2019,56.58,48.4,8.18,Di atas prediksi,3,37.16,86.86,0.66,17844,8.6,46.32
+Paniai,Papua,2020,56.31,53.5,2.81,Sesuai prediksi,3,36.71,57.89,0.66,13819,44.2,53.84
+Paniai,Papua,2021,56.7,51.09,5.61,Di atas prediksi,3,36.59,89.17,0.66,13758,44.8,50.44
+Paniai,Papua,2022,57.14,53.16,3.98,Di atas prediksi,3,36.63,77.65,0.66,13987,42.82,52.7
+Paniai,Papua,2023,57.91,54.47,3.44,Di atas prediksi,3,35.39,68.3,0.66,14066,43.82,54.35
+Paniai,Papua,2024,58.69,53.43,5.26,Di atas prediksi,3,37.07,67.72,0.66,14153,44.57,52.99
+Paniai,Papua,2025,59.12,53.43,5.69,Di atas prediksi,3,36.31,67.71,0.66,14235,45.29,52.99
+Pegunungan Bintang,Papua,2017,43.24,52.75,-9.51,Di bawah prediksi,1,30.6,90.82,0.88,17409,5.1,50.82
+Pegunungan Bintang,Papua,2018,44.22,53.47,-9.25,Di bawah prediksi,1,30.75,87.03,0.88,18095,5.1,51.98
+Pegunungan Bintang,Papua,2019,45.21,56.36,-11.15,Di bawah prediksi,1,30.51,90.64,1.63,18706,5.2,54.44
+Pegunungan Bintang,Papua,2020,45.44,59.0,-13.56,Di bawah prediksi,1,30.15,86.34,4.12,18080,13.9,58.89
+Pegunungan Bintang,Papua,2021,46.28,59.52,-13.24,Di bawah prediksi,1,30.46,87.68,4.43,18279,14.0,59.21
+Pegunungan Bintang,Papua,2022,47.21,57.3,-10.09,Di bawah prediksi,1,30.32,90.83,4.43,18548,5.71,55.54
+Pegunungan Bintang,Papua,2023,48.18,58.75,-10.57,Di bawah prediksi,1,29.79,87.18,4.43,18815,5.96,57.35
+Pegunungan Bintang,Papua,2024,49.36,58.75,-9.39,Di bawah prediksi,1,28.95,87.3,4.43,18995,6.06,57.06
+Pegunungan Bintang,Papua,2025,50.23,61.87,-11.64,Di bawah prediksi,1,25.87,89.88,4.43,19373,6.16,59.95
+Puncak,Papua,2017,41.06,44.06,-3.0,Sesuai prediksi,2,37.46,92.08,0.9,6836,19.8,42.86
+Puncak,Papua,2018,41.81,44.06,-2.25,Sesuai prediksi,2,38.15,94.18,0.9,7080,19.8,41.94
+Puncak,Papua,2019,42.7,51.69,-8.99,Di bawah prediksi,2,38.24,79.08,0.0,7495,20.2,50.62
+Puncak,Papua,2020,43.04,48.11,-5.07,Di bawah prediksi,2,36.96,85.78,0.47,7197,14.2,49.14
+Puncak,Papua,2021,43.17,48.11,-4.94,Di bawah prediksi,2,36.26,89.32,0.94,7127,14.3,48.16
+Puncak,Papua,2022,43.87,44.7,-0.83,Sesuai prediksi,2,36.25,97.4,0.94,7270,15.1,38.92
+Puncak,Papua,2023,44.59,44.06,0.53,Sesuai prediksi,2,36.44,93.34,0.94,7285,15.67,42.88
+Puncak,Papua,2024,45.6,47.28,-1.68,Sesuai prediksi,2,37.49,86.2,0.94,7317,15.92,46.16
+Puncak,Papua,2025,45.85,44.06,1.79,Sesuai prediksi,2,36.94,92.32,0.94,7346,16.15,42.88
+Puncak Jaya,Papua,2017,46.57,51.0,-4.43,Di bawah prediksi,3,36.01,89.79,0.91,7517,51.6,49.52
+Puncak Jaya,Papua,2018,47.39,51.0,-3.61,Di bawah prediksi,3,36.27,92.65,0.91,7691,51.6,49.62
+Puncak Jaya,Papua,2019,48.33,58.53,-10.2,Di bawah prediksi,3,35.71,74.78,1.78,8087,52.9,58.24
+Puncak Jaya,Papua,2020,48.37,56.42,-8.05,Di bawah prediksi,3,34.74,83.86,1.5,4332,34.4,56.9
+Puncak Jaya,Papua,2021,48.99,54.98,-5.99,Di bawah prediksi,3,36.0,91.02,1.74,4318,34.9,53.83
+Puncak Jaya,Papua,2022,49.84,55.82,-5.98,Di bawah prediksi,3,36.3,95.8,1.74,4384,38.67,54.61
+Puncak Jaya,Papua,2023,50.81,56.95,-6.14,Di bawah prediksi,3,35.6,84.89,1.74,4397,38.89,56.75
+Puncak Jaya,Papua,2024,51.78,58.53,-6.75,Di bawah prediksi,3,35.94,74.84,1.74,4508,39.28,58.37
+Puncak Jaya,Papua,2025,52.49,57.1,-4.61,Di bawah prediksi,3,35.46,84.47,1.74,4590,39.66,57.21
+Supiori,Papua,2017,61.23,59.92,1.31,Sesuai prediksi,1,37.4,70.39,7.02,36650,30.0,59.73
+Supiori,Papua,2018,61.84,60.88,0.96,Sesuai prediksi,1,39.22,57.64,7.02,36408,32.0,62.11
+Supiori,Papua,2019,62.3,60.56,1.74,Sesuai prediksi,1,38.79,66.93,4.4,38156,33.0,60.49
+Supiori,Papua,2020,62.3,59.33,2.97,Sesuai prediksi,1,36.91,69.18,4.12,34228,33.0,59.52
+Supiori,Papua,2021,62.72,59.33,3.39,Di atas prediksi,1,37.91,68.45,2.66,34075,34.0,58.46
+Supiori,Papua,2022,63.65,59.95,3.7,Di atas prediksi,1,37.7,61.22,2.93,34265,35.19,59.24
+Supiori,Papua,2023,64.61,60.77,3.84,Di atas prediksi,1,36.99,56.88,4.81,34105,36.0,62.11
+Supiori,Papua,2024,65.15,61.32,3.83,Di atas prediksi,1,37.72,65.47,6.06,34488,37.0,61.19
+Supiori,Papua,2025,66.08,61.32,4.76,Di atas prediksi,1,42.56,57.09,7.32,35160,38.0,63.01
+Tolikara,Papua,2017,47.89,50.08,-2.19,Sesuai prediksi,3,32.73,90.56,0.17,7101,22.4,51.24
+Tolikara,Papua,2018,48.85,50.08,-1.23,Sesuai prediksi,3,33.14,95.34,0.17,7359,22.4,51.24
+Tolikara,Papua,2019,49.68,54.73,-5.05,Di bawah prediksi,3,32.9,92.06,1.3,7374,22.6,54.91
+Tolikara,Papua,2020,49.5,50.08,-0.58,Sesuai prediksi,3,32.04,92.95,1.07,4481,21.6,50.02
+Tolikara,Papua,2021,49.6,50.08,-0.48,Sesuai prediksi,3,32.6,90.54,1.12,4464,21.9,50.02
+Tolikara,Papua,2022,50.51,53.16,-2.65,Sesuai prediksi,3,31.31,89.38,1.12,4568,81.72,52.81
+Tolikara,Papua,2023,51.48,53.16,-1.68,Sesuai prediksi,3,31.57,90.52,1.12,4713,81.69,52.81
+Tolikara,Papua,2024,52.05,53.16,-1.11,Sesuai prediksi,3,31.22,88.59,1.12,4837,82.4,53.16
+Tolikara,Papua,2025,52.45,55.51,-3.06,Sesuai prediksi,3,28.75,93.97,1.12,4965,83.05,55.02
+Waropen,Papua,2017,64.08,59.04,5.04,Di atas prediksi,4,30.82,54.95,2.26,45277,5.0,59.32
+Waropen,Papua,2018,64.8,59.04,5.76,Di atas prediksi,4,30.53,57.6,2.26,46755,6.0,59.24
+Waropen,Papua,2019,65.34,59.04,6.3,Di atas prediksi,4,30.95,57.64,3.19,48200,6.0,59.12
+Waropen,Papua,2020,64.94,61.02,3.92,Di atas prediksi,4,29.54,59.66,4.76,43337,5.0,61.06
+Waropen,Papua,2021,65.1,58.02,7.08,Di atas prediksi,4,29.85,55.6,8.56,43118,1.0,56.22
+Waropen,Papua,2022,65.67,60.46,5.21,Di atas prediksi,4,30.22,56.2,6.64,44539,3.25,60.33
+Waropen,Papua,2023,66.46,59.43,7.03,Di atas prediksi,4,29.16,65.72,4.62,43501,3.0,58.96
+Waropen,Papua,2024,66.92,60.03,6.89,Di atas prediksi,4,29.85,78.26,5.3,44192,3.0,59.65
+Waropen,Papua,2025,67.7,60.46,7.24,Di atas prediksi,4,32.6,64.65,5.98,45291,3.0,60.05
+Yahukimo,Papua,2017,47.95,45.65,2.3,Sesuai prediksi,5,39.33,87.21,0.86,7374,12.6,43.13
+Yahukimo,Papua,2018,48.51,46.87,1.64,Sesuai prediksi,5,39.25,84.96,0.86,7694,12.6,44.09
+Yahukimo,Papua,2019,49.25,51.7,-2.45,Sesuai prediksi,5,38.82,81.81,2.01,7970,12.7,48.98
+Yahukimo,Papua,2020,49.37,52.18,-2.81,Sesuai prediksi,5,37.34,85.48,3.88,4368,20.5,50.6
+Yahukimo,Papua,2021,49.48,52.32,-2.84,Sesuai prediksi,5,37.64,85.08,2.25,4370,20.7,50.76
+Yahukimo,Papua,2022,50.25,51.32,-1.07,Sesuai prediksi,5,36.21,90.46,2.25,4375,22.11,50.73
+Yahukimo,Papua,2023,51.19,55.89,-4.7,Di bawah prediksi,5,36.08,77.83,2.25,4449,22.43,54.16
+Yahukimo,Papua,2024,51.98,54.98,-3.0,Sesuai prediksi,5,33.82,85.21,2.25,4560,22.75,54.41
+Yahukimo,Papua,2025,52.49,52.31,0.18,Sesuai prediksi,5,30.61,93.92,2.25,4652,23.07,52.17
+Yalimo,Papua,2017,46.19,53.13,-6.94,Di bawah prediksi,1,34.97,57.48,0.84,3815,16.7,53.44
+Yalimo,Papua,2018,47.13,49.4,-2.27,Sesuai prediksi,1,35.45,86.36,0.84,4040,16.7,49.02
+Yalimo,Papua,2019,48.08,50.85,-2.77,Sesuai prediksi,1,34.52,89.66,0.64,3974,17.1,50.59
+Yalimo,Papua,2020,48.34,51.85,-3.51,Di bawah prediksi,1,32.82,88.98,0.64,3905,47.0,52.2
+Yalimo,Papua,2021,49.01,48.12,0.89,Sesuai prediksi,1,33.25,93.69,0.64,7566,47.7,46.95
+Yalimo,Papua,2022,49.9,53.08,-3.18,Di bawah prediksi,1,31.68,90.38,0.64,7803,33.4,52.51
+Yalimo,Papua,2023,50.87,53.16,-2.29,Sesuai prediksi,1,30.97,91.78,0.64,8085,33.9,51.68
+Yalimo,Papua,2024,51.85,54.48,-2.63,Sesuai prediksi,1,30.02,83.72,0.64,8186,34.41,54.49
+Yalimo,Papua,2025,52.63,57.92,-5.29,Di bawah prediksi,1,27.35,90.92,0.64,8402,34.9,56.86
+Fakfak,Papua Barat,2017,66.09,62.29,3.8,Di atas prediksi,3,25.96,65.87,10.47,41510,5.0,62.8
+Fakfak,Papua Barat,2018,66.99,65.56,1.43,Sesuai prediksi,3,24.31,59.49,10.47,43509,5.0,67.21
+Fakfak,Papua Barat,2019,67.87,65.22,2.65,Sesuai prediksi,3,23.25,64.99,11.49,44997,5.0,65.76
+Fakfak,Papua Barat,2020,68.36,65.27,3.09,Sesuai prediksi,3,22.27,67.81,11.45,40327,6.0,65.5
+Fakfak,Papua Barat,2021,68.52,65.27,3.25,Di atas prediksi,3,22.86,70.74,7.9,40272,6.0,65.5
+Fakfak,Papua Barat,2022,69.12,65.27,3.85,Di atas prediksi,3,22.06,62.28,7.9,40393,6.03,65.5
+Fakfak,Papua Barat,2023,69.72,67.52,2.2,Sesuai prediksi,3,21.38,64.53,7.9,40545,9.13,67.76
+Fakfak,Papua Barat,2024,70.39,67.61,2.78,Sesuai prediksi,3,20.86,61.21,7.9,41219,9.26,67.86
+Fakfak,Papua Barat,2025,70.87,67.61,3.26,Di atas prediksi,3,19.86,62.9,7.9,41511,9.39,67.86
+Kaimana,Papua Barat,2017,62.74,63.36,-0.62,Sesuai prediksi,3,17.22,71.27,2.94,28977,4.0,62.3
+Kaimana,Papua Barat,2018,63.67,63.36,0.31,Sesuai prediksi,3,16.65,63.03,2.94,29779,4.0,62.46
+Kaimana,Papua Barat,2019,64.59,64.31,0.28,Sesuai prediksi,3,16.11,70.54,6.51,29482,4.0,64.01
+Kaimana,Papua Barat,2020,65.0,64.48,0.52,Sesuai prediksi,3,15.5,73.57,6.9,28159,4.0,64.49
+Kaimana,Papua Barat,2021,65.31,63.36,1.95,Sesuai prediksi,3,16.04,74.9,3.23,27176,4.0,62.61
+Kaimana,Papua Barat,2022,66.11,63.79,2.32,Sesuai prediksi,3,15.29,76.65,3.23,26950,3.92,63.54
+Kaimana,Papua Barat,2023,66.72,64.18,2.54,Sesuai prediksi,3,14.57,64.05,3.23,27345,3.67,64.27
+Kaimana,Papua Barat,2024,67.6,64.18,3.42,Di atas prediksi,3,14.41,66.54,3.23,27454,3.73,64.27
+Kaimana,Papua Barat,2025,68.1,64.18,3.92,Di atas prediksi,3,13.83,64.93,3.23,27423,3.8,64.27
+Manokwari,Papua Barat,2017,70.67,68.76,1.91,Sesuai prediksi,5,24.32,65.61,5.12,37509,54.0,68.88
+Manokwari,Papua Barat,2018,71.17,69.02,2.15,Sesuai prediksi,5,22.21,62.71,5.12,38495,54.0,69.21
+Manokwari,Papua Barat,2019,71.67,68.95,2.72,Sesuai prediksi,5,21.06,65.78,7.31,40325,56.0,69.65
+Manokwari,Papua Barat,2020,72.01,69.05,2.96,Sesuai prediksi,5,20.14,69.34,7.47,33161,60.0,69.64
+Manokwari,Papua Barat,2021,72.02,68.95,3.07,Sesuai prediksi,5,20.56,70.57,7.04,33890,61.0,69.61
+Manokwari,Papua Barat,2022,72.6,69.32,3.28,Di atas prediksi,5,19.9,62.66,7.04,34028,61.86,69.91
+Manokwari,Papua Barat,2023,73.21,69.05,4.16,Di atas prediksi,5,18.73,67.62,7.04,33819,73.04,69.61
+Manokwari,Papua Barat,2024,73.83,69.05,4.78,Di atas prediksi,5,18.45,70.12,7.04,34290,74.18,69.61
+Manokwari,Papua Barat,2025,74.64,69.05,5.59,Di atas prediksi,5,17.38,67.43,7.04,35049,75.29,69.61
+Manokwari Selatan,Papua Barat,2017,58.08,59.66,-1.58,Sesuai prediksi,1,34.02,79.54,5.14,22838,8.0,59.89
+Manokwari Selatan,Papua Barat,2018,58.84,62.09,-3.25,Di bawah prediksi,1,30.87,77.03,5.14,23190,8.0,62.27
+Manokwari Selatan,Papua Barat,2019,59.72,60.31,-0.59,Sesuai prediksi,1,29.94,80.85,2.48,23970,9.0,60.41
+Manokwari Selatan,Papua Barat,2020,59.84,59.73,0.11,Sesuai prediksi,1,28.88,82.5,2.43,16199,13.0,59.23
+Manokwari Selatan,Papua Barat,2021,59.85,59.56,0.29,Sesuai prediksi,1,29.3,84.42,2.9,16059,13.0,59.27
+Manokwari Selatan,Papua Barat,2022,60.68,61.55,-0.87,Sesuai prediksi,1,28.55,77.16,2.9,16004,13.74,61.07
+Manokwari Selatan,Papua Barat,2023,61.55,63.75,-2.2,Sesuai prediksi,1,27.8,80.16,2.9,16038,20.71,63.27
+Manokwari Selatan,Papua Barat,2024,62.45,63.07,-0.62,Sesuai prediksi,1,26.83,80.96,2.9,16823,21.13,62.51
+Manokwari Selatan,Papua Barat,2025,63.24,64.3,-1.06,Sesuai prediksi,1,26.52,73.53,2.9,17085,21.54,63.83
+Maybrat,Papua Barat,2017,57.23,52.38,4.85,Di atas prediksi,3,34.87,85.52,1.62,10661,7.44,50.94
+Maybrat,Papua Barat,2018,58.16,55.38,2.78,Sesuai prediksi,3,32.89,71.1,1.62,11066,7.44,54.69
+Maybrat,Papua Barat,2019,59.15,51.3,7.85,Di atas prediksi,3,32.2,72.37,0.5,11323,8.0,50.71
+Maybrat,Papua Barat,2020,59.52,55.45,4.07,Di atas prediksi,3,30.78,78.24,2.26,10736,7.87,54.84
+Maybrat,Papua Barat,2021,59.7,53.93,5.77,Di atas prediksi,3,31.39,81.51,1.89,10678,8.18,53.05
+Maybrat,Papua Barat,2022,60.49,53.72,6.77,Di atas prediksi,3,31.14,81.38,1.89,10635,8.0,52.85
+Maybrat,Papua Barat,2023,61.29,55.84,5.45,Di atas prediksi,3,30.28,77.42,1.89,10589,8.59,55.61
+Maybrat,Papua Barat,2024,61.83,55.95,5.88,Di atas prediksi,3,29.18,81.18,1.89,10067,8.83,55.35
+Maybrat,Papua Barat,2025,62.68,57.76,4.92,Di atas prediksi,3,29.0,80.5,1.89,10141,9.06,57.11
+Pegunungan Arfak,Papua Barat,2017,54.39,48.89,5.5,Di atas prediksi,5,39.23,88.89,1.29,4058,11.0,46.22
+Pegunungan Arfak,Papua Barat,2018,55.31,49.38,5.93,Di atas prediksi,5,35.72,88.58,1.29,4366,11.0,48.6
+Pegunungan Arfak,Papua Barat,2019,56.15,45.26,10.89,Di atas prediksi,5,34.83,91.71,0.22,4430,10.0,45.81
+Pegunungan Arfak,Papua Barat,2020,56.33,49.95,6.38,Di atas prediksi,5,33.81,95.38,1.62,3962,14.0,49.14
+Pegunungan Arfak,Papua Barat,2021,56.13,49.86,6.27,Di atas prediksi,5,34.7,94.7,1.62,4055,14.0,49.14
+Pegunungan Arfak,Papua Barat,2022,57.01,50.3,6.71,Di atas prediksi,5,33.71,93.76,1.62,4492,14.33,49.62
+Pegunungan Arfak,Papua Barat,2023,57.82,50.86,6.96,Di atas prediksi,5,32.29,94.48,1.62,4810,12.33,50.53
+Pegunungan Arfak,Papua Barat,2024,58.73,50.86,7.87,Di atas prediksi,5,31.76,92.15,1.62,5260,12.57,50.53
+Pegunungan Arfak,Papua Barat,2025,59.55,52.92,6.63,Di atas prediksi,5,30.88,89.77,1.62,5473,12.8,52.57
+Raja Ampat,Papua Barat,2017,62.35,66.57,-4.22,Di bawah prediksi,1,20.0,56.97,3.22,45120,6.44,67.25
+Raja Ampat,Papua Barat,2018,62.84,66.57,-3.73,Di bawah prediksi,1,17.8,65.54,3.22,46619,6.44,66.37
+Raja Ampat,Papua Barat,2019,63.66,66.42,-2.76,Sesuai prediksi,1,17.16,66.32,2.16,47868,7.46,66.66
+Raja Ampat,Papua Barat,2020,63.89,66.24,-2.35,Sesuai prediksi,1,17.01,70.94,2.73,35666,8.48,66.8
+Raja Ampat,Papua Barat,2021,63.92,66.86,-2.94,Sesuai prediksi,1,17.5,65.46,3.81,38861,8.65,67.42
+Raja Ampat,Papua Barat,2022,64.65,66.86,-2.21,Sesuai prediksi,1,17.32,60.61,3.91,42460,8.32,68.48
+Raja Ampat,Papua Barat,2023,65.26,67.24,-1.98,Sesuai prediksi,1,16.76,57.88,3.97,41866,9.2,68.88
+Raja Ampat,Papua Barat,2024,65.86,67.91,-2.05,Sesuai prediksi,1,15.83,62.78,4.39,41106,9.41,69.11
+Raja Ampat,Papua Barat,2025,66.62,67.75,-1.13,Sesuai prediksi,1,16.57,64.11,4.48,41210,9.64,68.47
+Sorong,Papua Barat,2017,63.42,61.76,1.66,Sesuai prediksi,4,32.86,68.11,2.98,93926,223.6,62.63
+Sorong,Papua Barat,2018,64.32,61.76,2.56,Sesuai prediksi,4,30.19,64.59,2.98,96870,223.6,62.56
+Sorong,Papua Barat,2019,65.29,63.21,2.08,Sesuai prediksi,4,28.61,66.03,2.94,96042,230.13,63.94
+Sorong,Papua Barat,2020,65.74,65.25,0.49,Sesuai prediksi,4,27.48,63.5,3.29,71056,257.38,66.1
+Sorong,Papua Barat,2021,65.77,65.25,0.52,Sesuai prediksi,4,27.78,67.9,3.36,71427,259.88,66.1
+Sorong,Papua Barat,2022,66.69,64.41,2.28,Sesuai prediksi,4,27.58,65.92,3.36,72143,19.25,64.51
+Sorong,Papua Barat,2023,67.49,64.44,3.05,Sesuai prediksi,4,26.88,65.28,3.36,73898,16.13,64.51
+Sorong,Papua Barat,2024,68.29,65.13,3.16,Di atas prediksi,4,25.71,69.08,3.36,76940,16.28,65.27
+Sorong,Papua Barat,2025,69.2,65.13,4.07,Di atas prediksi,4,25.1,69.46,3.36,79924,16.42,65.27
+Sorong Selatan,Papua Barat,2017,60.19,66.09,-5.9,Di bawah prediksi,5,19.66,77.18,4.78,25835,7.0,65.25
+Sorong Selatan,Papua Barat,2018,61.01,66.09,-5.08,Di bawah prediksi,5,19.14,68.0,4.78,26840,7.0,65.11
+Sorong Selatan,Papua Barat,2019,61.93,65.46,-3.53,Di bawah prediksi,5,18.41,77.12,3.82,27469,7.5,65.33
+Sorong Selatan,Papua Barat,2020,62.42,66.35,-3.93,Di bawah prediksi,5,18.28,69.99,3.69,23954,8.7,65.91
+Sorong Selatan,Papua Barat,2021,62.46,65.11,-2.65,Sesuai prediksi,5,18.55,79.75,3.55,24433,7.9,65.09
+Sorong Selatan,Papua Barat,2022,63.08,65.93,-2.85,Sesuai prediksi,5,18.48,78.12,3.55,25339,8.17,65.92
+Sorong Selatan,Papua Barat,2023,63.94,66.2,-2.26,Sesuai prediksi,5,18.11,68.12,3.55,25974,8.42,65.95
+Sorong Selatan,Papua Barat,2024,64.5,66.35,-1.85,Sesuai prediksi,5,17.83,69.16,3.55,26259,8.57,65.95
+Sorong Selatan,Papua Barat,2025,65.41,66.35,-0.94,Sesuai prediksi,5,17.66,68.86,3.55,26776,8.73,65.95
+Tambrauw,Papua Barat,2017,51.01,55.76,-4.75,Di bawah prediksi,2,35.99,77.72,2.96,9705,3.0,53.31
+Tambrauw,Papua Barat,2018,51.95,54.94,-2.99,Sesuai prediksi,2,34.59,81.94,2.96,10230,3.0,52.64
+Tambrauw,Papua Barat,2019,52.9,57.55,-4.65,Di bawah prediksi,2,33.66,75.32,2.13,9983,1.2,55.26
+Tambrauw,Papua Barat,2020,53.45,57.36,-3.91,Di bawah prediksi,2,32.8,73.0,2.46,5363,3.0,55.52
+Tambrauw,Papua Barat,2021,53.71,57.11,-3.4,Di bawah prediksi,2,33.86,75.28,1.49,5056,2.72,55.36
+Tambrauw,Papua Barat,2022,54.63,57.85,-3.22,Di bawah prediksi,2,32.45,78.62,1.49,5103,3.1,56.13
+Tambrauw,Papua Barat,2023,55.55,57.85,-2.3,Sesuai prediksi,2,31.23,77.68,1.49,5154,2.56,56.19
+Tambrauw,Papua Barat,2024,56.32,59.19,-2.87,Sesuai prediksi,2,29.88,79.3,1.49,5517,2.62,57.49
+Tambrauw,Papua Barat,2025,57.29,58.54,-1.25,Sesuai prediksi,2,28.94,79.66,1.49,5774,2.68,56.78
+Teluk Bintuni,Papua Barat,2017,62.39,61.33,1.06,Sesuai prediksi,3,34.32,68.62,6.01,377369,3.0,61.38
+Teluk Bintuni,Papua Barat,2018,63.13,61.33,1.8,Sesuai prediksi,3,31.3,69.01,6.01,389005,3.0,61.38
+Teluk Bintuni,Papua Barat,2019,64.0,61.4,2.6,Sesuai prediksi,3,30.57,64.1,8.29,390774,3.0,61.71
+Teluk Bintuni,Papua Barat,2020,64.55,60.61,3.94,Di atas prediksi,3,29.39,67.54,8.58,296131,4.0,61.1
+Teluk Bintuni,Papua Barat,2021,64.65,60.33,4.32,Di atas prediksi,3,29.79,65.9,4.74,284418,4.0,60.48
+Teluk Bintuni,Papua Barat,2022,65.27,60.33,4.94,Di atas prediksi,3,29.73,68.64,4.74,286875,4.43,60.47
+Teluk Bintuni,Papua Barat,2023,66.0,62.13,3.87,Di atas prediksi,3,28.24,66.15,4.74,300859,4.52,62.06
+Teluk Bintuni,Papua Barat,2024,66.75,62.13,4.62,Di atas prediksi,3,26.99,67.29,4.74,384666,4.57,62.18
+Teluk Bintuni,Papua Barat,2025,67.28,63.38,3.9,Di atas prediksi,3,25.34,69.22,4.74,410859,4.61,63.25
+Teluk Wondama,Papua Barat,2017,58.1,58.9,-0.8,Sesuai prediksi,4,36.37,62.72,3.29,30048,8.0,58.72
+Teluk Wondama,Papua Barat,2018,58.86,59.64,-0.78,Sesuai prediksi,4,33.32,61.4,3.29,30560,8.0,59.39
+Teluk Wondama,Papua Barat,2019,59.82,59.64,0.18,Sesuai prediksi,4,32.42,68.61,3.23,30914,8.0,59.39
+Teluk Wondama,Papua Barat,2020,60.21,60.32,-0.11,Sesuai prediksi,4,30.91,74.83,4.43,23611,11.0,60.26
+Teluk Wondama,Papua Barat,2021,60.33,60.32,0.01,Sesuai prediksi,4,31.61,74.21,2.9,23325,11.0,60.26
+Teluk Wondama,Papua Barat,2022,60.87,60.32,0.55,Sesuai prediksi,4,30.06,71.53,2.9,23493,11.07,60.19
+Teluk Wondama,Papua Barat,2023,61.67,61.77,-0.1,Sesuai prediksi,4,28.9,68.59,2.9,23574,9.19,61.57
+Teluk Wondama,Papua Barat,2024,62.36,61.77,0.59,Sesuai prediksi,4,28.47,72.17,2.9,23903,9.4,61.57
+Teluk Wondama,Papua Barat,2025,63.1,63.81,-0.71,Sesuai prediksi,4,27.57,66.16,2.9,23678,9.61,63.64
+Kepulauan Meranti,Riau,2017,64.7,66.04,-1.34,Sesuai prediksi,2,28.99,64.93,6.84,64523,50.0,67.04
+Kepulauan Meranti,Riau,2018,65.23,67.2,-1.97,Sesuai prediksi,2,27.79,68.4,6.84,66733,50.0,68.41
+Kepulauan Meranti,Riau,2019,65.93,67.42,-1.49,Sesuai prediksi,2,26.93,67.2,6.19,67546,50.0,68.59
+Kepulauan Meranti,Riau,2020,65.5,68.04,-2.54,Sesuai prediksi,2,25.28,67.97,7.94,61755,56.0,69.43
+Kepulauan Meranti,Riau,2021,65.7,67.77,-2.07,Sesuai prediksi,2,25.68,65.33,4.43,62603,56.0,68.65
+Kepulauan Meranti,Riau,2022,66.52,68.49,-1.97,Sesuai prediksi,2,23.84,64.54,5.5,63971,58.93,69.56
+Kepulauan Meranti,Riau,2023,67.28,68.27,-0.99,Sesuai prediksi,2,22.98,65.06,5.17,66423,58.45,69.13
+Kepulauan Meranti,Riau,2024,67.92,68.01,-0.09,Sesuai prediksi,2,23.15,67.72,4.51,68014,58.98,68.65
+Kepulauan Meranti,Riau,2025,68.48,68.28,0.2,Sesuai prediksi,2,20.51,69.0,4.51,69865,59.5,68.89
+Polewali Mandar,Sulawesi Barat,2017,62.35,67.95,-5.6,Di bawah prediksi,1,16.05,66.63,3.94,19250,214.0,67.39
+Polewali Mandar,Sulawesi Barat,2018,63.14,68.25,-5.11,Di bawah prediksi,1,15.97,66.96,2.97,20212,246.0,67.97
+Polewali Mandar,Sulawesi Barat,2019,63.74,69.0,-5.26,Di bawah prediksi,1,15.6,69.2,3.01,21497,249.0,68.87
+Polewali Mandar,Sulawesi Barat,2020,63.84,68.69,-4.85,Di bawah prediksi,1,15.26,71.91,3.15,19364,237.0,68.41
+Polewali Mandar,Sulawesi Barat,2021,64.23,68.45,-4.22,Di bawah prediksi,1,15.68,69.5,3.38,19478,273.0,68.04
+Polewali Mandar,Sulawesi Barat,2022,64.79,67.78,-2.99,Sesuai prediksi,1,16.39,76.52,2.16,19927,236.0,67.54
+Polewali Mandar,Sulawesi Barat,2023,65.59,67.9,-2.31,Sesuai prediksi,1,16.08,73.5,1.95,20584,239.0,67.63
+Polewali Mandar,Sulawesi Barat,2024,66.22,69.0,-2.78,Sesuai prediksi,1,15.66,70.73,3.1,21553,242.0,68.87
+Polewali Mandar,Sulawesi Barat,2025,67.05,69.0,-1.95,Sesuai prediksi,1,14.02,73.24,3.08,22125,245.0,69.29
+Donggala,Sulawesi Tengah,2017,64.66,68.38,-3.72,Di bawah prediksi,1,18.17,63.52,2.85,26609,70.0,68.51
+Donggala,Sulawesi Tengah,2018,65.14,68.38,-3.24,Di bawah prediksi,1,18.03,63.52,2.85,27074,71.0,68.51
+Donggala,Sulawesi Tengah,2019,65.49,68.07,-2.58,Sesuai prediksi,1,18.4,65.39,2.76,28166,71.0,68.23
+Donggala,Sulawesi Tengah,2020,65.56,68.07,-2.51,Sesuai prediksi,1,17.39,63.51,2.58,27217,59.0,68.23
+Donggala,Sulawesi Tengah,2021,65.72,68.38,-2.66,Sesuai prediksi,1,16.73,67.12,3.5,28222,61.0,68.51
+Donggala,Sulawesi Tengah,2022,66.25,68.02,-1.77,Sesuai prediksi,1,16.3,71.76,2.84,29042,60.0,68.18
+Donggala,Sulawesi Tengah,2023,66.95,68.38,-1.43,Sesuai prediksi,1,16.25,65.94,2.79,30129,60.0,68.51
+Donggala,Sulawesi Tengah,2024,67.45,69.13,-1.68,Sesuai prediksi,1,15.3,67.89,2.79,30994,61.0,69.53
+Donggala,Sulawesi Tengah,2025,67.97,69.13,-1.16,Sesuai prediksi,1,14.66,69.38,2.78,32204,61.0,69.53
+Parigi Moutong,Sulawesi Tengah,2017,64.09,68.17,-4.08,Di bawah prediksi,4,17.55,71.85,2.7,23494,93.0,68.47
+Parigi Moutong,Sulawesi Tengah,2018,64.85,68.17,-3.32,Di bawah prediksi,4,17.41,71.85,2.7,23664,95.0,68.47
+Parigi Moutong,Sulawesi Tengah,2019,65.47,68.17,-2.7,Sesuai prediksi,4,16.64,67.75,2.36,23871,96.0,68.57
+Parigi Moutong,Sulawesi Tengah,2020,65.44,68.82,-3.38,Di bawah prediksi,4,15.85,72.13,2.7,25249,76.0,69.52
+Parigi Moutong,Sulawesi Tengah,2021,65.82,68.82,-3.0,Sesuai prediksi,4,15.28,68.48,2.97,26148,80.0,69.41
+Parigi Moutong,Sulawesi Tengah,2022,66.26,69.09,-2.83,Sesuai prediksi,4,14.63,73.72,1.71,26800,77.0,70.92
+Parigi Moutong,Sulawesi Tengah,2023,67.11,69.09,-1.98,Sesuai prediksi,4,14.91,72.91,2.11,27447,78.0,70.75
+Parigi Moutong,Sulawesi Tengah,2024,67.49,69.09,-1.6,Sesuai prediksi,4,14.2,74.35,2.1,28116,79.0,70.92
+Parigi Moutong,Sulawesi Tengah,2025,68.0,69.09,-1.09,Sesuai prediksi,4,13.51,76.31,2.1,28903,80.0,71.01
+Poso,Sulawesi Tengah,2017,69.78,66.68,3.1,Sesuai prediksi,2,17.16,75.13,2.47,23351,35.0,66.52
+Poso,Sulawesi Tengah,2018,70.68,66.68,4.0,Di atas prediksi,2,16.71,75.13,2.47,24277,35.0,66.52
+Poso,Sulawesi Tengah,2019,71.4,68.76,2.64,Sesuai prediksi,2,15.65,72.08,2.18,25371,36.0,68.94
+Poso,Sulawesi Tengah,2020,71.28,67.12,4.16,Di atas prediksi,2,15.45,74.34,2.39,25492,32.0,67.23
+Poso,Sulawesi Tengah,2021,71.45,66.68,4.77,Di atas prediksi,2,15.92,73.06,2.47,26435,34.0,66.36
+Poso,Sulawesi Tengah,2022,71.93,67.12,4.81,Di atas prediksi,2,15.18,71.97,1.68,27128,33.0,67.18
+Poso,Sulawesi Tengah,2023,72.48,67.12,5.36,Di atas prediksi,2,15.16,70.68,1.67,27910,33.0,67.18
+Poso,Sulawesi Tengah,2024,72.87,67.2,5.67,Di atas prediksi,2,14.23,68.26,1.77,28691,34.0,67.13
+Poso,Sulawesi Tengah,2025,73.77,67.2,6.57,Di atas prediksi,2,12.9,70.26,1.76,29567,34.0,67.13
+Tojo Una-Una,Sulawesi Tengah,2017,62.61,66.66,-4.05,Di bawah prediksi,2,18.15,76.46,3.74,23683,26.0,66.65
+Tojo Una-Una,Sulawesi Tengah,2018,63.38,66.66,-3.28,Di bawah prediksi,2,18.27,76.46,3.74,24063,27.0,66.65
+Tojo Una-Una,Sulawesi Tengah,2019,64.52,66.66,-2.14,Sesuai prediksi,2,17.16,78.43,2.92,25034,27.0,66.88
+Tojo Una-Una,Sulawesi Tengah,2020,64.59,66.66,-2.07,Sesuai prediksi,2,16.39,75.04,2.84,22797,29.0,66.53
+Tojo Una-Una,Sulawesi Tengah,2021,64.74,66.68,-1.94,Sesuai prediksi,2,16.6,74.54,3.44,23466,31.0,66.4
+Tojo Una-Una,Sulawesi Tengah,2022,65.54,66.66,-1.12,Sesuai prediksi,2,16.12,68.14,3.05,24007,30.0,66.37
+Tojo Una-Una,Sulawesi Tengah,2023,66.39,66.66,-0.27,Sesuai prediksi,2,16.74,74.65,2.83,24544,30.0,66.53
+Tojo Una-Una,Sulawesi Tengah,2024,66.97,66.68,0.29,Sesuai prediksi,2,16.36,74.62,2.47,25180,31.0,66.44
+Tojo Una-Una,Sulawesi Tengah,2025,67.69,67.69,0.0,Sesuai prediksi,2,14.67,74.58,2.73,26015,31.0,68.46
+Konawe Kepulauan,Sulawesi Tenggara,2017,63.44,68.8,-5.36,Di bawah prediksi,4,18.1,68.4,5.41,27510,38.28,69.09
+Konawe Kepulauan,Sulawesi Tenggara,2018,64.36,67.73,-3.37,Di bawah prediksi,4,17.48,76.66,1.12,29128,38.0,68.19
+Konawe Kepulauan,Sulawesi Tenggara,2019,65.05,68.17,-3.12,Di bawah prediksi,4,17.18,68.26,1.79,31940,39.0,68.71
+Konawe Kepulauan,Sulawesi Tenggara,2020,65.41,68.17,-2.76,Sesuai prediksi,4,17.01,70.7,1.55,28364,40.0,68.71
+Konawe Kepulauan,Sulawesi Tenggara,2021,65.73,68.17,-2.44,Sesuai prediksi,4,17.81,70.84,1.83,28473,43.0,68.71
+Konawe Kepulauan,Sulawesi Tenggara,2022,66.69,68.17,-1.48,Sesuai prediksi,4,16.15,68.91,1.85,28877,54.0,68.71
+Konawe Kepulauan,Sulawesi Tenggara,2023,67.32,68.82,-1.5,Sesuai prediksi,4,15.9,74.75,1.59,29163,55.0,69.76
+Konawe Kepulauan,Sulawesi Tenggara,2024,67.99,67.35,0.64,Sesuai prediksi,4,15.54,81.18,1.51,30695,56.0,68.22
+Konawe Kepulauan,Sulawesi Tenggara,2025,68.61,69.09,-0.48,Sesuai prediksi,4,14.42,76.94,1.52,31693,57.0,70.77
+Lahat,Sumatera Selatan,2017,66.38,68.54,-2.16,Sesuai prediksi,1,16.81,72.74,4.33,28059,93.0,68.68
+Lahat,Sumatera Selatan,2018,66.99,68.02,-1.03,Sesuai prediksi,1,16.15,74.26,3.35,28911,95.97,68.29
+Lahat,Sumatera Selatan,2019,67.62,68.09,-0.47,Sesuai prediksi,1,15.92,70.84,3.68,30249,77.06,68.29
+Lahat,Sumatera Selatan,2020,67.44,68.54,-1.1,Sesuai prediksi,1,15.95,71.54,4.18,28992,80.97,68.79
+Lahat,Sumatera Selatan,2021,67.58,68.02,-0.44,Sesuai prediksi,1,16.46,69.32,3.6,30029,81.88,68.18
+Lahat,Sumatera Selatan,2022,68.4,69.13,-0.73,Sesuai prediksi,1,15.61,70.5,4.02,31728,104.0,69.53
+Lahat,Sumatera Selatan,2023,69.1,69.13,-0.03,Sesuai prediksi,1,15.0,74.58,3.41,33451,102.69,69.9
+Lahat,Sumatera Selatan,2024,69.77,69.13,0.64,Sesuai prediksi,1,14.14,72.7,3.12,34745,103.92,70.49
+Lahat,Sumatera Selatan,2025,70.69,69.13,1.56,Sesuai prediksi,1,13.69,70.4,2.84,36235,105.14,70.66
+Musi Banyuasin,Sumatera Selatan,2017,66.96,68.24,-1.28,Sesuai prediksi,4,16.75,67.64,2.75,65642,43.0,68.75
+Musi Banyuasin,Sumatera Selatan,2018,67.57,68.24,-0.67,Sesuai prediksi,4,16.52,64.7,3.33,66816,44.29,68.75
+Musi Banyuasin,Sumatera Selatan,2019,67.83,68.24,-0.41,Sesuai prediksi,4,16.41,65.64,4.15,68743,45.5,68.75
+Musi Banyuasin,Sumatera Selatan,2020,67.69,68.72,-1.03,Sesuai prediksi,4,16.13,70.24,4.79,71844,43.61,69.27
+Musi Banyuasin,Sumatera Selatan,2021,68.1,69.0,-0.9,Sesuai prediksi,4,15.84,68.78,3.99,73382,43.95,69.57
+Musi Banyuasin,Sumatera Selatan,2022,68.6,69.28,-0.68,Sesuai prediksi,4,15.19,70.71,4.4,75553,43.51,70.26
+Musi Banyuasin,Sumatera Selatan,2023,69.17,69.28,-0.11,Sesuai prediksi,4,14.9,72.12,2.58,78009,44.29,70.56
+Musi Banyuasin,Sumatera Selatan,2024,70.12,69.28,0.84,Sesuai prediksi,4,12.88,69.38,2.31,80917,44.81,70.87
+Musi Banyuasin,Sumatera Selatan,2025,71.02,69.28,1.74,Sesuai prediksi,4,9.97,70.64,2.04,84102,45.31,71.17
+Musi Rawas Utara,Sumatera Selatan,2017,63.18,69.05,-5.87,Di bawah prediksi,5,19.49,72.96,6.11,27266,32.0,69.87
+Musi Rawas Utara,Sumatera Selatan,2018,63.75,68.23,-4.48,Di bawah prediksi,5,19.12,69.86,4.19,28074,31.99,68.42
+Musi Rawas Utara,Sumatera Selatan,2019,64.32,68.23,-3.91,Di bawah prediksi,5,19.12,70.38,3.81,28840,32.04,68.42
+Musi Rawas Utara,Sumatera Selatan,2020,64.49,68.67,-4.18,Di bawah prediksi,5,19.47,71.84,6.88,29577,31.43,69.57
+Musi Rawas Utara,Sumatera Selatan,2021,64.93,69.05,-4.12,Di bawah prediksi,5,20.11,69.68,6.72,29896,31.69,69.86
+Musi Rawas Utara,Sumatera Selatan,2022,65.74,68.86,-3.12,Di bawah prediksi,5,18.45,73.08,5.29,30817,32.4,69.1
+Musi Rawas Utara,Sumatera Selatan,2023,66.6,68.86,-2.26,Sesuai prediksi,5,18.26,69.88,5.11,31741,33.0,69.09
+Musi Rawas Utara,Sumatera Selatan,2024,67.4,68.86,-1.46,Sesuai prediksi,5,17.38,69.98,4.94,32766,33.42,69.09
+Musi Rawas Utara,Sumatera Selatan,2025,68.34,69.41,-1.07,Sesuai prediksi,5,15.25,70.38,4.78,34003,33.82,69.97
+Kota Gunungsitoli,Sumatera Utara,2017,67.68,68.77,-1.09,Sesuai prediksi,1,21.66,70.58,6.0,21891,502.0,68.5
+Kota Gunungsitoli,Sumatera Utara,2018,68.33,68.9,-0.57,Sesuai prediksi,1,18.44,68.81,5.99,22941,502.0,68.74
+Kota Gunungsitoli,Sumatera Utara,2019,69.3,68.54,0.76,Sesuai prediksi,1,16.23,71.96,5.58,23941,507.0,68.28
+Kota Gunungsitoli,Sumatera Utara,2020,69.31,69.26,0.05,Sesuai prediksi,1,16.41,63.34,5.94,25347,484.0,69.1
+Kota Gunungsitoli,Sumatera Utara,2021,69.61,68.9,0.71,Sesuai prediksi,1,16.45,63.44,4.8,25494,487.0,68.61
+Kota Gunungsitoli,Sumatera Utara,2022,70.23,70.41,-0.18,Sesuai prediksi,1,14.81,66.56,3.65,25833,1018.0,71.47
+Kota Gunungsitoli,Sumatera Utara,2023,70.68,69.13,1.55,Sesuai prediksi,1,14.78,68.24,3.67,26337,685.0,69.11
+Kota Gunungsitoli,Sumatera Utara,2024,71.41,69.13,2.28,Sesuai prediksi,1,14.72,71.53,3.48,26901,695.95,69.87
+Kota Gunungsitoli,Sumatera Utara,2025,72.4,69.13,3.27,Di atas prediksi,1,13.85,71.38,3.29,27394,706.89,70.33
+Nias,Sumatera Utara,2017,60.21,64.8,-4.59,Di bawah prediksi,4,18.11,81.44,1.19,16896,78.0,65.01
+Nias,Sumatera Utara,2018,60.82,64.92,-4.1,Di bawah prediksi,4,16.37,81.82,1.61,17642,78.0,65.09
+Nias,Sumatera Utara,2019,61.65,61.37,0.28,Sesuai prediksi,4,15.94,84.88,1.09,17832,75.0,61.78
+Nias,Sumatera Utara,2020,61.93,64.92,-2.99,Sesuai prediksi,4,16.6,81.35,3.49,17832,80.0,64.73
+Nias,Sumatera Utara,2021,62.74,64.92,-2.18,Sesuai prediksi,4,16.82,81.98,3.12,17839,80.0,64.73
+Nias,Sumatera Utara,2022,63.69,64.67,-0.98,Sesuai prediksi,4,16.0,84.68,2.81,18127,193.0,64.77
+Nias,Sumatera Utara,2023,64.56,67.1,-2.54,Sesuai prediksi,4,15.1,81.84,2.31,18566,170.0,67.99
+Nias,Sumatera Utara,2024,65.55,67.1,-1.55,Sesuai prediksi,4,14.89,82.44,2.2,19044,172.46,68.3
+Nias,Sumatera Utara,2025,66.21,68.37,-2.16,Sesuai prediksi,4,14.51,77.46,2.08,19503,174.55,69.76
+Nias Barat,Sumatera Utara,2017,59.56,59.45,0.11,Sesuai prediksi,5,27.23,83.91,1.23,13123,172.0,59.47
+Nias Barat,Sumatera Utara,2018,60.42,58.94,1.48,Sesuai prediksi,5,26.72,90.87,1.29,13692,172.0,58.14
+Nias Barat,Sumatera Utara,2019,61.14,62.73,-1.59,Sesuai prediksi,5,25.51,82.2,1.65,15104,183.0,63.1
+Nias Barat,Sumatera Utara,2020,61.51,64.52,-3.01,Sesuai prediksi,5,25.69,51.79,1.71,13994,190.0,64.92
+Nias Barat,Sumatera Utara,2021,61.99,60.49,1.5,Sesuai prediksi,5,26.42,82.22,0.8,14066,191.0,60.86
+Nias Barat,Sumatera Utara,2022,62.93,61.07,1.86,Sesuai prediksi,5,24.75,84.82,0.8,14175,157.0,61.25
+Nias Barat,Sumatera Utara,2023,63.7,62.49,1.21,Sesuai prediksi,5,22.81,81.11,0.8,14410,205.0,62.61
+Nias Barat,Sumatera Utara,2024,64.67,62.49,2.18,Sesuai prediksi,5,22.68,81.34,0.88,14671,209.49,62.61
+Nias Barat,Sumatera Utara,2025,65.66,61.92,3.74,Di atas prediksi,5,22.47,82.8,0.97,14717,213.53,62.04
+Nias Selatan,Sumatera Utara,2017,59.85,65.82,-5.97,Di bawah prediksi,4,18.48,79.8,1.28,12172,174.0,65.98
+Nias Selatan,Sumatera Utara,2018,60.75,66.14,-5.39,Di bawah prediksi,4,16.65,79.34,3.79,12671,174.0,66.1
+Nias Selatan,Sumatera Utara,2019,61.59,66.14,-4.55,Di bawah prediksi,4,16.45,72.68,2.24,13142,175.0,66.1
+Nias Selatan,Sumatera Utara,2020,61.89,65.9,-4.01,Di bawah prediksi,4,16.74,77.32,4.15,11842,198.0,65.78
+Nias Selatan,Sumatera Utara,2021,62.35,65.9,-3.55,Di bawah prediksi,4,16.92,72.39,3.91,11795,201.0,65.76
+Nias Selatan,Sumatera Utara,2022,63.17,65.9,-2.73,Sesuai prediksi,4,16.48,78.61,3.69,11909,146.0,65.78
+Nias Selatan,Sumatera Utara,2023,64.12,65.9,-1.78,Sesuai prediksi,4,16.39,79.29,3.48,12101,151.0,65.78
+Nias Selatan,Sumatera Utara,2024,65.02,65.9,-0.88,Sesuai prediksi,4,16.32,78.82,3.23,12325,154.03,65.78
+Nias Selatan,Sumatera Utara,2025,65.89,65.9,-0.01,Sesuai prediksi,4,16.16,78.76,2.98,12466,156.9,65.78
+Nias Utara,Sumatera Utara,2017,60.57,62.6,-2.03,Sesuai prediksi,1,29.06,73.65,2.67,15683,114.0,62.69
+Nias Utara,Sumatera Utara,2018,61.08,65.15,-4.07,Di bawah prediksi,1,26.56,79.93,2.4,16272,114.0,65.26
+Nias Utara,Sumatera Utara,2019,61.98,65.6,-3.62,Di bawah prediksi,1,24.99,75.84,3.06,16880,115.0,65.88
+Nias Utara,Sumatera Utara,2020,62.36,66.05,-3.69,Di bawah prediksi,1,25.07,73.88,4.54,16140,122.0,65.97
+Nias Utara,Sumatera Utara,2021,62.82,65.44,-2.62,Sesuai prediksi,1,25.66,74.4,3.0,16095,124.0,65.45
+Nias Utara,Sumatera Utara,2022,63.75,67.24,-3.49,Di bawah prediksi,1,23.4,77.94,2.59,16272,116.0,67.54
+Nias Utara,Sumatera Utara,2023,64.64,67.03,-2.39,Sesuai prediksi,1,21.79,81.36,2.57,16584,126.0,67.3
+Nias Utara,Sumatera Utara,2024,65.62,67.2,-1.58,Sesuai prediksi,1,21.5,79.8,2.48,16885,128.17,67.48
+Nias Utara,Sumatera Utara,2025,66.58,67.24,-0.66,Sesuai prediksi,1,20.79,79.0,2.4,17159,130.4,67.57

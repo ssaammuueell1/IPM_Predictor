@@ -1,0 +1,175 @@
+{
+  "versi_xgboost": "3.4.1",
+  "kolom_prediktor": [
+    "PPM",
+    "TPAK",
+    "TPT",
+    "PDRB",
+    "KP"
+  ],
+  "jumlah": {
+    "daerah": 114,
+    "baris": 1026,
+    "tahun_awal": 2017,
+    "tahun_akhir": 2025
+  },
+  "param": {
+    "tuning": {
+      "learning_rate": 0.04,
+      "max_depth": 2,
+      "min_child_weight": 5,
+      "n_estimators": 100
+    },
+    "awal": {
+      "n_estimators": 1000,
+      "max_depth": 2,
+      "learning_rate": 0.01,
+      "min_child_weight": 1
+    }
+  },
+  "ambang_status": 3.11,
+  "metrik_uji": {
+    "Baseline": {
+      "MAE": 6.4998,
+      "RMSE": 8.3902,
+      "R2": -0.0186
+    },
+    "Tanpa tuning": {
+      "MAE": 2.7818,
+      "RMSE": 3.7116,
+      "R2": 0.8007
+    },
+    "Dengan tuning": {
+      "MAE": 2.6109,
+      "RMSE": 3.3879,
+      "R2": 0.8339
+    }
+  },
+  "metrik_prediksi_silang": {
+    "tuning": {
+      "MAE": 3.1091,
+      "RMSE": 4.1548,
+      "R2": 0.6844
+    },
+    "awal": {
+      "MAE": 3.0618,
+      "RMSE": 4.0337,
+      "R2": 0.7025
+    }
+  },
+  "tabel_fold": {
+    "tuning": [
+      {
+        "Fold": 1,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 2.5411,
+        "RMSE": 3.3972,
+        "R2": 0.6858
+      },
+      {
+        "Fold": 2,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.2393,
+        "RMSE": 4.345,
+        "R2": 0.6896
+      },
+      {
+        "Fold": 3,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.3922,
+        "RMSE": 4.8041,
+        "R2": 0.7097
+      },
+      {
+        "Fold": 4,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.3866,
+        "RMSE": 4.0376,
+        "R2": 0.6189
+      },
+      {
+        "Fold": 5,
+        "Daerah validasi": 22,
+        "Baris": 198,
+        "MAE": 2.9806,
+        "RMSE": 4.0588,
+        "R2": 0.5957
+      }
+    ],
+    "awal": [
+      {
+        "Fold": 1,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 2.566,
+        "RMSE": 3.2791,
+        "R2": 0.7073
+      },
+      {
+        "Fold": 2,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.0544,
+        "RMSE": 4.0167,
+        "R2": 0.7347
+      },
+      {
+        "Fold": 3,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.343,
+        "RMSE": 4.7055,
+        "R2": 0.7215
+      },
+      {
+        "Fold": 4,
+        "Daerah validasi": 23,
+        "Baris": 207,
+        "MAE": 3.3411,
+        "RMSE": 3.9736,
+        "R2": 0.6309
+      },
+      {
+        "Fold": 5,
+        "Daerah validasi": 22,
+        "Baris": 198,
+        "MAE": 3.0018,
+        "RMSE": 4.0679,
+        "R2": 0.5939
+      }
+    ]
+  },
+  "rentang_prediktor": {
+    "PPM": {
+      "min": 9.97,
+      "max": 43.65
+    },
+    "TPAK": {
+      "min": 37.16,
+      "max": 98.02
+    },
+    "TPT": {
+      "min": 0.0,
+      "max": 16.5
+    },
+    "PDRB": {
+      "min": 3815.0,
+      "max": 410859.0
+    },
+    "KP": {
+      "min": 1.0,
+      "max": 2684.0
+    }
+  },
+  "kontribusi_fitur": {
+    "PPM": 58.46,
+    "TPAK": 13.65,
+    "TPT": 8.52,
+    "PDRB": 8.99,
+    "KP": 10.39
+  }
+}

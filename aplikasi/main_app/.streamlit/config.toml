@@ -1,0 +1,19 @@
+[theme]
+base = "light"
+primaryColor = "#0F4C5C"
+backgroundColor = "#F6F8FA"
+secondaryBackgroundColor = "#EAF0F3"
+textColor = "#1B2733"
+borderColor = "#DCE4EA"
+showWidgetBorder = true
+baseRadius = "0.7rem"
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+metricValueFontSize = "1.9rem"
+# Warna status (dipakai st.badge): hijau = di atas, biru = sesuai, merah = di bawah
+greenColor = "#2E7D32"
+blueColor = "#1F4E79"
+redColor = "#C62828"
+chartCategoricalColors = ["#0F4C5C", "#E09F3E", "#2A9D8F", "#9E2A2B", "#8C8273", "#5C6F82"]
+
+[theme.sidebar]
+backgroundColor = "#EDF2F5"
