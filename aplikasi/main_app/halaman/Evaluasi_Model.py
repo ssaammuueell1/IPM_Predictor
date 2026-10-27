@@ -13,16 +13,15 @@ FORMAT_METRIK = dict(precision=3, decimal=",", thousands=".")
 WARNA_MODEL = {"Baseline": WARNA_REDUP, "Tanpa tuning": WARNA_SEKUNDER, "Dengan tuning": WARNA_UTAMA}
 
 hero("Evaluasi Model",
-     "Kinerja model diukur dengan MAE, RMSE, dan R² melalui dua cara: data uji (pembagian 80/20 per "
-     "kabupaten/kota) dan validasi silang GroupKFold 5 fold.")
+     "Seberapa akurat model? Diukur dengan data uji dan validasi silang 5 fold.",
+     label="Kinerja model", gambar_nama="header_evaluasi")
 
 with st.expander("Arti metrik", icon=":material/help:"):
     st.markdown(
-        "- **MAE**: rata-rata besar kesalahan prediksi dalam poin IPM. Makin kecil makin baik.\n"
-        "- **RMSE**: mirip MAE, tetapi kesalahan besar dihukum lebih berat. Makin kecil makin baik.\n"
-        "- **R²**: proporsi keragaman IPM yang dapat dijelaskan model. Nilai 1 berarti sempurna, "
-        "nilai 0 atau kurang berarti tidak lebih baik daripada menebak rata-rata.\n"
-        "- **Baseline**: tebakan paling sederhana, yaitu selalu menebak rata-rata IPM data latih."
+        "- **MAE**: rata-rata kesalahan, dalam poin IPM. Makin kecil makin baik.\n"
+        "- **RMSE**: seperti MAE, tetapi lebih peka pada kesalahan besar. Makin kecil makin baik.\n"
+        "- **R²**: seberapa banyak variasi IPM yang dijelaskan model (0–1). Makin besar makin baik.\n"
+        "- **Baseline**: tebakan paling sederhana, yaitu selalu menebak rata-rata IPM."
     )
 
 # ---------- Ringkasan utama ----------
@@ -35,9 +34,9 @@ k1.metric("R² data uji", angka(terbaik["R2"], 3), border=True,
 k2.metric("MAE data uji", angka(terbaik["MAE"], 3), border=True, delta_color="inverse",
           delta=f"{angka(terbaik['MAE'] - baseline['MAE'], 3)} dari baseline")
 k3.metric("R² prediksi silang", angka(silang["R2"], 3), border=True,
-          help=f"Gabungan prediksi semua {info['jumlah']['daerah']} daerah dari 5 fold.")
+          help=f"Semua {info['jumlah']['daerah']} daerah, dari 5 fold.")
 k4.metric("MAE prediksi silang", angka(silang["MAE"], 3), border=True,
-          help="Dipakai sebagai batas status di seluruh aplikasi.")
+          help="Dipakai sebagai batas status.")
 
 tab_uji, tab_fold, tab_sebar, tab_prov, tab_fitur, tab_param = st.tabs([
     ":material/fact_check: Data uji", ":material/view_week: Validasi silang", ":material/scatter_plot: Aktual vs prediksi",
@@ -65,14 +64,12 @@ with tab_uji:
     kanan.plotly_chart(rapikan(fig_r2, tinggi=340, legenda=False), width="stretch")
 
     st.dataframe(uji.reset_index().style.format(subset=METRIK, **FORMAT_METRIK), hide_index=True, width="stretch")
-    st.caption("Data uji: 20% kabupaten/kota yang tidak dipakai saat melatih model.")
+    st.caption("Data uji = 20% kabupaten/kota yang tidak dipakai saat melatih model.")
 
 # ---------- 2. Validasi silang ----------
 with tab_fold:
-    st.write(
-        f"Seluruh {info['jumlah']['daerah']} daerah dibagi menjadi 5 kelompok. Setiap kelompok bergiliran "
-        f"menjadi data validasi, sehingga setiap daerah diprediksi oleh model yang tidak pernah melihatnya."
-    )
+    st.write(f"{info['jumlah']['daerah']} daerah dibagi 5 kelompok. Tiap kelompok bergiliran diuji "
+             f"oleh model yang tidak pernah melihatnya.")
     semua_fold = pd.concat([pd.DataFrame(info["tabel_fold"][n]).assign(Model=label)
                             for n, label in [("awal", "Tanpa tuning"), ("tuning", "Dengan tuning")]])
     pilih = st.segmented_control("Metrik per fold", ["R2", "MAE", "RMSE"], default="R2",
@@ -98,10 +95,7 @@ with tab_fold:
             c1.metric("MAE prediksi silang", angka(hasil_silang["MAE"], 3), border=True)
             c2.metric("RMSE prediksi silang", angka(hasil_silang["RMSE"], 3), border=True)
             c3.metric("R² prediksi silang", angka(hasil_silang["R2"], 3), border=True)
-    st.caption(
-        f"MAE prediksi silang model dengan tuning (±{angka(info['ambang_status'])}) "
-        f"dipakai sebagai batas status di seluruh aplikasi."
-    )
+    st.caption(f"MAE prediksi silang (±{angka(info['ambang_status'])}) dipakai sebagai batas status.")
 
 # ---------- 3. Grafik aktual vs prediksi ----------
 with tab_sebar:
@@ -113,7 +107,7 @@ with tab_sebar:
     fig.add_trace(go.Scatter(x=garis, y=garis, mode="lines", name="Prediksi tepat (y = x)",
                              line=dict(color="gray", dash="dash")))
     st.plotly_chart(rapikan(fig, tinggi=500), width="stretch")
-    st.caption("Makin dekat titik ke garis putus-putus, makin tepat prediksinya.")
+    st.caption("Makin dekat ke garis putus-putus, makin tepat.")
 
 # ---------- 4. MAE per provinsi ----------
 with tab_prov:
@@ -131,8 +125,7 @@ with tab_prov:
     fig2.add_vline(x=mae_total, line_dash="dash", line_color="gray", annotation_text="MAE keseluruhan")
     fig2.update_yaxes(title=None)
     st.plotly_chart(rapikan(fig2, tinggi=40 + 28 * len(mae_provinsi), legenda=False), width="stretch")
-    st.caption("Merah: MAE provinsi di atas MAE keseluruhan. Provinsi dengan sedikit daerah (lihat jumlah "
-               "daerah saat di-hover) memiliki MAE yang kurang stabil.")
+    st.caption("Merah = kesalahan di atas rata-rata. Provinsi dengan sedikit daerah hasilnya kurang stabil.")
 
 # ---------- 5. Kontribusi fitur ----------
 with tab_fitur:
@@ -140,14 +133,12 @@ with tab_fitur:
     fig3 = px.bar(x=kontribusi.values, y=kontribusi.index, orientation="h", text_auto=".1f",
                   labels={"x": "Kontribusi (%)", "y": ""}, color_discrete_sequence=[WARNA_UTAMA])
     st.plotly_chart(rapikan(fig3, tinggi=320, legenda=False), width="stretch")
-    st.caption(
-        "Kontribusi dihitung dari total gain: seberapa besar setiap indikator mengurangi kesalahan model "
-        "saat dipakai untuk membelah data. Nilai ini tidak menunjukkan arah pengaruh maupun hubungan sebab-akibat."
-    )
+    st.caption("Seberapa besar tiap indikator membantu model mengurangi kesalahan (total gain). "
+               "Bukan arah pengaruh atau sebab-akibat.")
 
 # ---------- 6. Parameter ----------
 with tab_param:
     param = pd.DataFrame(info["param"]).rename(columns={"tuning": "Dengan tuning", "awal": "Tanpa tuning"})
     param.index.name = "Parameter"
     st.dataframe(param.reset_index(), hide_index=True, width="stretch")
-    st.caption("Parameter lain sama untuk kedua model: reg_lambda = 1, reg_alpha = 0, gamma = 0, tree_method = exact.")
+    st.caption("Parameter lain sama: reg_lambda = 1, reg_alpha = 0, gamma = 0, tree_method = exact.")

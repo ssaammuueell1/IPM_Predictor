@@ -6,11 +6,10 @@ from tampilan import hero, kartu_status, rapikan, LATAR_STATUS
 
 tabel = muat_tabel()
 info = muat_info()
-ambang = angka(info["ambang_status"])
 
 hero("Daftar Wilayah",
-     "Tabel IPM aktual dan IPM prediksi seluruh kabupaten/kota. Kosongkan filter untuk menampilkan "
-     "semua data. Klik judul kolom tabel untuk mengurutkan.")
+     "Cari dan saring IPM aktual dan IPM prediksi setiap kabupaten/kota.",
+     label="Data", gambar_nama="header_daftar_wilayah")
 
 # ---------- Filter ----------
 with st.container(border=True):
@@ -18,8 +17,7 @@ with st.container(border=True):
     cari = f1.text_input("Cari kabupaten/kota", placeholder="Contoh: Aceh Barat", icon=":material/search:")
     pilih_provinsi = f2.multiselect("Provinsi", sorted(tabel["Provinsi"].unique()), placeholder="Semua provinsi")
     pilih_tahun = f3.selectbox("Tahun", ["Semua tahun"] + sorted(tabel["Tahun"].unique(), reverse=True))
-    pilih_status = st.pills("Status", URUTAN_STATUS, selection_mode="multi",
-                            help="Kosongkan untuk menampilkan semua status.")
+    pilih_status = st.pills("Status", URUTAN_STATUS, selection_mode="multi")
 
 hasil = tabel
 if cari:
@@ -36,7 +34,7 @@ jumlah_status = hasil["Status"].value_counts()
 for kolom, status in zip(st.columns(3), URUTAN_STATUS):
     with kolom:
         kartu_status(status, int(jumlah_status.get(status, 0)), len(hasil))
-st.caption(f"Menampilkan {angka(len(hasil), 0)} dari {angka(len(tabel), 0)} baris · batas status ±{ambang}")
+st.caption(f"{angka(len(hasil), 0)} dari {angka(len(tabel), 0)} baris · klik judul kolom untuk mengurutkan")
 
 if hasil.empty:
     st.warning("Tidak ada data yang cocok dengan filter.", icon=":material/search_off:")
@@ -71,7 +69,7 @@ else:
         st.download_button(
             "Unduh tabel (CSV)", tampil.to_csv(index=False, sep=";", decimal=",").encode("utf-8-sig"),
             file_name="daftar_wilayah_ipm.csv", mime="text/csv", icon=":material/download:",
-            help="Pemisah titik koma dan desimal koma, sehingga langsung terbaca di Excel berbahasa Indonesia.",
+            help="Langsung terbaca di Excel berbahasa Indonesia.",
         )
 
     # ---------- Ringkasan per provinsi ----------
@@ -92,4 +90,4 @@ else:
                 .rename(columns={"Rata_IPM": "Rata-rata IPM aktual", "Rata_selisih": "Rata-rata selisih"}))
         st.dataframe(rata.style.format({"Rata-rata IPM aktual": "{:.2f}", "Rata-rata selisih": "{:+.2f}"}, decimal=","),
                      hide_index=True, width="stretch")
-        st.caption("Rata-rata selisih positif berarti daerah di provinsi itu cenderung memiliki IPM di atas prediksi.")
+        st.caption("Rata-rata selisih positif = daerah di provinsi itu cenderung di atas prediksi.")

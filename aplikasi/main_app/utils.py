@@ -15,7 +15,7 @@ STATUS_ATAS = "Di atas prediksi"
 STATUS_SESUAI = "Sesuai prediksi"
 STATUS_BAWAH = "Di bawah prediksi"
 URUTAN_STATUS = [STATUS_ATAS, STATUS_SESUAI, STATUS_BAWAH]
-WARNA_STATUS = {STATUS_ATAS: "#2E7D32", STATUS_SESUAI: "#1F4E79", STATUS_BAWAH: "#C62828"}
+WARNA_STATUS = {STATUS_ATAS: "#0F766E", STATUS_SESUAI: "#6B7280", STATUS_BAWAH: "#C0392B"}
 
 @st.cache_data
 def muat_tabel():
@@ -29,6 +29,12 @@ def muat_info():
     with open(FOLDER_MODEL / "info_model.json", encoding="utf-8") as f:
         return json.load(f)
 
+
+@st.cache_data
+def muat_peta():
+    """Batas wilayah kabupaten/kota dalam format GeoJSON (sumber: geoBoundaries, CC BY 4.0)."""
+    with open(FOLDER_DATA / "batas_kabkota.geojson", encoding="utf-8") as f:
+        return json.load(f)
 
 @st.cache_resource
 def muat_model(nama="tuning"):

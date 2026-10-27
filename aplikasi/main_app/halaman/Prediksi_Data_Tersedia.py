@@ -11,8 +11,8 @@ ambang = info["ambang_status"]
 jumlah_daerah = info["jumlah"]["daerah"]
 
 hero("Prediksi Data Tersedia",
-     "Pilih kabupaten/kota dan tahun untuk melihat IPM aktual, IPM prediksi, selisihnya, "
-     "dan perkembangannya dari tahun ke tahun.")
+     "Lihat IPM satu daerah: aktual, prediksi, dan selisihnya dari tahun ke tahun.",
+     label="Per daerah", gambar_nama="header_prediksi_tersedia")
 
 # ---------- Pilihan daerah dan tahun ----------
 with st.container(border=True):
@@ -43,14 +43,11 @@ k2.metric("IPM prediksi", angka(baris["IPM_prediksi"]), border=True)
 k3.metric("Selisih", ("+" if baris["Selisih"] > 0 else "") + angka(baris["Selisih"]), border=True,
           help="Selisih = IPM aktual − IPM prediksi")
 k4.metric("Peringkat IPM aktual", f"{peringkat} / {len(data_tahun)}", border=True,
-          help=f"Urutan IPM aktual di antara {len(data_tahun)} daerah pada tahun {tahun} (1 = tertinggi).")
+          help="1 = IPM tertinggi pada tahun itu.")
 
 st.plotly_chart(grafik_selisih(float(baris["Selisih"]), ambang), width="stretch",
                 config={"displayModeBar": False})
-st.caption(
-    f"IPM prediksi berasal dari prediksi silang: daerah ini diprediksi oleh model yang "
-    f"tidak dilatih dengan data daerah ini (fold {baris['Fold']})."
-)
+st.caption(f"Diprediksi oleh model yang tidak pernah melihat data daerah ini (fold {baris['Fold']}).")
 
 tab_tren, tab_indikator = st.tabs([":material/show_chart: Tren IPM", ":material/tune: Nilai indikator"])
 
@@ -63,7 +60,7 @@ with tab_tren:
     fig.add_trace(go.Scatter(x=tahun_x, y=prediksi + ambang, mode="lines", line=dict(width=0),
                              showlegend=False, hoverinfo="skip"))
     fig.add_trace(go.Scatter(x=tahun_x, y=prediksi - ambang, mode="lines", line=dict(width=0), fill="tonexty",
-                             fillcolor="rgba(31,78,121,0.10)", name=f"Batas ±{angka(ambang)}", hoverinfo="skip"))
+                             fillcolor="rgba(156,163,175,0.2)", name=f"Batas ±{angka(ambang)}", hoverinfo="skip"))
     fig.add_trace(go.Scatter(x=tahun_x, y=prediksi, mode="lines+markers", name="IPM prediksi",
                              line=dict(color=WARNA_SEKUNDER, dash="dash"),
                              hovertemplate="IPM prediksi %{y:.2f}<extra></extra>"))
@@ -77,8 +74,7 @@ with tab_tren:
     fig.update_layout(hovermode="x unified", yaxis_title="IPM")
     fig.update_xaxes(dtick=1)
     st.plotly_chart(rapikan(fig, tinggi=400), width="stretch")
-    st.caption("Warna titik IPM aktual menunjukkan status tiap tahun. Titik di luar area biru muda berarti "
-               "statusnya di atas atau di bawah prediksi.")
+    st.caption(f"Warna titik = status tiap tahun. Area abu-abu = batas ±{angka(ambang)}.")
 
 # ---------- Posisi prediktor ----------
 with tab_indikator:
@@ -97,10 +93,10 @@ with tab_indikator:
         text=[("+" if v > 0 else "") + angka(v, 1) + "%" for v in posisi["Beda dari rata-rata (%)"]],
         textposition="outside", hovertemplate="%{y}: %{x:.1f}%<extra></extra>",
     ))
-    fig2.add_vline(x=0, line_color="#9AA7B2")
+    fig2.add_vline(x=0, line_color="#9CA3AF")
     fig2.update_xaxes(title=f"Beda dari rata-rata {jumlah_daerah} daerah tahun {tahun} (%)", ticksuffix="%")
     fig2.update_yaxes(autorange="reversed", title=None)
     st.plotly_chart(rapikan(fig2, tinggi=300, legenda=False), width="stretch")
 
     st.dataframe(posisi.style.format(precision=2, decimal=",", thousands="."), hide_index=True, width="stretch")
-    st.caption("Perbandingan ini hanya menunjukkan posisi daerah, bukan penyebab selisih IPM.")
+    st.caption("Hanya menunjukkan posisi daerah, bukan penyebab selisih IPM.")

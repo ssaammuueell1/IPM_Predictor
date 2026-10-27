@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,Rata-rata selisih (aktual − prediksi)
+Baseline (rata-rata 2017–2024),6.278,7.551,-0.166,2.852
+IPM 2025 = IPM 2024,0.744,0.768,0.988,0.744
+Regresi linear,3.172,4.14,0.649,1.528
+XGBoost (parameter utama),2.747,3.515,0.747,1.771
